@@ -63,6 +63,10 @@ class: title title-1
 
 # Policy Design and Implementation
 
+**Policy enactment and implementation are distinct, but ...**
+
+--
+
 **Choices made in design influence implementation** 
 
 --
@@ -70,6 +74,11 @@ class: title title-1
 **Policy design continues during implementation** 
 * Experience will change design
 * Experience can change appreciation of problems
+
+--
+
+**Delegation involves creating policy** 
+* Agency rules and regulations 
 
 ---
 
