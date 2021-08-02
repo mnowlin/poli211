@@ -1,0 +1,163 @@
+---
+title: "Policy Design and Implementation"
+author: ""
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ["default", "css/mcn-slides.css", "css/ath-inferno-fonts.css", "css/animate.css"]
+    seal: false
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: "16:9"
+      navigation:
+        scroll: false
+---
+  
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(warning = FALSE, message = FALSE, 
+                      fig.retina = 3, fig.align = "center")
+```
+
+```{r xaringanExtra, echo=FALSE}
+xaringanExtra::use_webcam()
+```
+
+.pull-left[
+# Policy Design and <br> Implementation 
+<figure>
+  <img src="sticker.jpg" width="%">
+</figure>
+]
+
+.pull-right[
+
+</br>
+</br>
+</br>
+**POLI 211: Introduction to Public Policy**
+
+**Summer 2021**
+
+.light[Matthew Nowlin, PhD<br>
+Department of Political Science<br>
+College of Charleston
+]
+
+]
+
+---
+
+class: title title-1
+
+# Policy Stages 
+
+</br>
+
+![](img/stages.png)
+
+---
+
+class: title title-1
+
+# Policy Design and Implementation
+
+**Choices made in design influence implementation** 
+
+--
+
+**Policy design continues during implementation** 
+* Experience will change design
+* Experience can change appreciation of problems
+
+---
+
+class: title title-1
+
+# Elements of Policy Design 
+
+<figure>
+<center>
+  <img src="img/design.png" width="75%">
+</figure>
+
+
+---
+
+class: title title-1
+
+# Policy Implementation 
+
+> The process by which policies enacted by government are put into effect by the relevant agencies 
+
+--
+
+* Policy design and implementation are not separate
+
+--
+
+* Legislative intent is often unclear
+
+--
+
+* Bureaucracies have discretion 
+
+--
+
+* A policy is generally useless if it isn’t implemented
+
+--
+
+* Implementation battles are also where significant power and debate come in
+
+
+---
+
+class: title title-1
+
+# Top-Down Approach
+
+**Design starts at the top — highest-level policy designers** 
+
+--
+
+**Assumes**
+.pull-left[
+* Clear goals
+* Clear tools
+* Single statute or other authority
+]
+
+.pull-right[
+* Clear implementation chain
+* Knowledge of capacity and commitment of implementers
+]
+
+---
+
+class: title title-1
+
+# Bottom-Up Approach 
+
+**Start from perspective of _street-level bureaucrats_** 
+
+--
+
+* Elmore: _backward mapping_ of the implementation system
+
+--
+
+* Recognizes that goals are ambiguous
+
+--
+
+* Does not require a single statute or “policy”
+
+--
+
+* Better accommodates a “network” of implementation actors
+
+--
+
+**Implementation best understood as a mix of top-down and bottom-up** 

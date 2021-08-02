@@ -1,0 +1,202 @@
+---
+title: "Policymaking Process"
+author: ""
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ["default", "css/mcn-slides.css", "css/ath-inferno-fonts.css", "css/animate.css"]
+    seal: false
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: "16:9"
+      navigation:
+        scroll: false
+---
+  
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(warning = FALSE, message = FALSE, 
+                      fig.retina = 3, fig.align = "center")
+```
+
+```{r xaringanExtra, echo=FALSE}
+xaringanExtra::use_webcam()
+```
+
+.pull-left[
+# Policymaking <br> Process
+<figure>
+  <img src="sticker.jpg" width="%">
+</figure>
+]
+
+.pull-right[
+
+</br>
+</br>
+</br>
+**POLI 211: Introduction to Public Policy**
+
+**Summer 2021**
+
+.light[Matthew Nowlin, PhD<br>
+Department of Political Science<br>
+College of Charleston
+]
+
+]
+
+---
+
+class: center, middle
+
+# How can we understand the policymaking process?
+
+---
+
+class: title title-1 
+
+# Policy Stages 
+
+</br>
+
+![](img/stages.png)
+
+---
+
+class: title title-1
+
+# Policy Stages 
+
+**Strengths and weaknesses of the stages model**  
+
+* Implies a beginning and an end — _the cycle is actually endless_ 
+* Implies an orderly step of stages — _stages can be skipped, taken out of order_ 
+* Stages can overlap — _implementation and evaluation, for example_ 
+
+**Strength: it’s still a good way to organize our thinking** 
+
+---
+
+class: title title-1
+
+# Systems Model
+
+<figure>
+<center>
+  <img src="img/system.png" width="75%">
+</figure>
+
+---
+
+class: title title-1
+
+# Environments 
+
+* Social environment 
+    * _Demographics_, _diversity_, _labor force_ 
+    
+* Political environment 
+    * _Public opinion_, _voting_ 
+    
+* Economic environment 
+    * _GDP_, _federal budget_, _unemployment_
+    
+* **Structural environment** 
+
+
+---
+
+class: title title-1
+
+# Constitutional Order 
+
+.pull-left[
+* Federalism
+* Separation of powers
+* **The rule of law**
+* Commitment to individual liberty
+* The sanctity of property
+* Civil rights
+
+]
+
+.pull-right[
+</br>
+<figure>
+  <img src="img/constitution.jpeg" width="%">
+</figure>
+
+]
+
+
+---
+
+class: title title-1
+
+# Separation and Sharing of Powers 
+
+</br>
+
+| Congress | President | Courts 
+--- | --- | --- | --- 
+Legislative | **make laws** | recommend laws, veto, regulations | review laws  
+Executive | override vetos, oversight | **enforce and implement laws** | review executive acts 
+Judicial | advise and consent | pardon, nominate judges | **interpret laws** 
+
+
+---
+
+class: title title-1
+
+# Policymaking 
+
+**Tends toward stability**  
+
+* Ideological and political stability
+
+* Fragmentation
+
+* Basic rules and norms
+
+* Open government and policy restraint
+
+**But, large policy changes sometimes happen** 
+
+---
+
+class: title title-1
+
+# Democracy 
+
+* Public policy is about making choices _collectively_ 
+
+* How do we decide? What is the process?
+
+* One _elementary principle_ of democracy:  
+
+> That all members [of a polity] are to be treated (under the constitution) as if they were equally qualified to participate in the process of making decisions about the policies [the polity] will pursue 
+
+.small[– _Dahl, pg. 37_]
+
+---
+
+class: title title-1
+
+# Democracy 
+
+**Criteria for a _democratic process_**
+
+* Effective participation
+
+* Voting equality 
+
+* Enlightened understanding 
+
+* Control of the agenda 
+
+* Inclusion of adults 
+
+
+

@@ -1,0 +1,75 @@
+\documentclass[11pt]{article}
+\usepackage{fullpage}
+\usepackage{setspace}
+\usepackage{graphicx}
+\usepackage{rotating}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{multirow}
+\usepackage[colorlinks=true,linkcolor=blue,urlcolor=blue,citecolor=blue,
+            anchorcolor=blue]{hyperref}
+\usepackage{natbib}
+\usepackage{bibentry}
+\setcounter{secnumdepth}{0}
+\usepackage{datetime}
+\usepackage{advdate}
+\usepackage{fontawesome}
+\newdateformat{syldate}{\shortmonthname[{\THEMONTH}] \THEDAY}
+\newsavebox{\MONDAY}\savebox{\MONDAY}{Mon}% Monday
+
+\newcommand{\week}{%
+  \paragraph*{\syldate{\today}:}% Set heading \quad #1
+  \ifdim\wd1=\wd\MONDAY
+  \AdvanceDate[7]
+  \else
+  \AdvanceDate[7]
+  \fi%
+}
+
+
+\begin{document}
+
+\begin{center}
+\bigskip
+
+% course title
+{\Large{\bf{Introduction to Public Policy}}}
+
+% course number
+\textsc{POLI 211}
+
+% semester 
+\textsc{Summer II 2021}
+
+% \vspace{0.15in}
+
+% meeting time and location 
+% \textsc{Maybank 100 and Zoom} \\
+% \textsc{1:00PM - 1:50PM MWF}  
+\end{center}
+
+\vspace{0.25in}
+
+\faMale \hspace{0.005in} Dr. Matthew Nowlin, PhD
+
+\vspace{0.05in}
+\faExternalLink \hspace{0.005in} \href{https://www.matthewcnowlin.com/}{\underline{matthewcnowlin.com}} 
+
+\vspace{0.05in}
+\faEnvelopeO \hspace{0.005in} \href{mailto:nowlinmc@cofc.edu}{\underline{nowlinmc@cofc.edu}} 
+
+\vspace{0.05in}
+\faCommentsO \hspace{0.005in} \textbf{Office hours:} \href{https://calendly.com/nowlinmc/meetings}{\underline{By appointment}} (on Zoom)
+
+\setlength{\unitlength}{1in}
+\begin{picture}(6,.1) 
+\put(0,0) {\line(1,0){6.25}}
+\vspace{-1in}         
+\end{picture}
+
+
+\input{POLI211syllabus-body.tex}
+
+\input{important-info.tex}
+  
+\end{document}
