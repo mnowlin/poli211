@@ -1,182 +1,112 @@
 # Course Description
 
-_Our responsibility is one of decision---for to govern is to choose. - John F. Kennedy_
+> _Our responsibility is one of decision---for to govern is to choose_ 
+> - John F. Kennedy
 
-\vspace{0.15in}
-
+\vspace{0.1in}
 \noindent As stated by President Kennedy, making choices is at the heart of governing. How do policymakers make choices regarding public policy? This course will address this question by examining the policymaking process in the United States. 
 
 \vspace{0.1in}
 \noindent Throughout this course we will explore the historical and social context in which policymaking occurs; how problems reach the agendas of policymakers and how policies are formed to address those problems; the adoption of specific policy alternatives; how policies are implemented; and, finally, how public policies are evaluated. 
+
+\vspace{0.1in}
+\noindent \textbf{Course Catalog}: This course examines the cultural, economic, and institutional contexts that shape U.S. public policy. The course examines the processes by which policy problems are addressed and alternate solutions are adopted. Implications for solving public problems and resolving political disagreements in a manner consistent with democratic ideas are considered.
+
+\vspace{0.1in}
+\noindent This course will be _lecture_ and _discussion_ based. Being able to adequately participate requires you to come to class prepared by having done the assigned readings prior to class. In addition, you should be prepared to participate in class by asking questions and making informed comments that add to the class discussion. **I may call on you to answer a question or discuss your policy issue**. 
+
+\vspace{0.1in}
+\noindent Laptops are allowed, but discouraged. Phones are only to be used to answer quiz questions.  _I encourage you to take notes by hand, with pen and paper_. [You learn better that way](https://www.nytimes.com/2017/11/27/learning/should-teachers-and-professors-ban-student-use-of-laptops-in-class.html). I recommend taking notes using the [Cornell Method](http://www.usu.edu/arc/idea_sheets/pdf/note_taking_cornell.pdf).  Also, lecture slides will __not__ be made available outside of class.  
 
 ## Course Goals and Learning Objectives
 
 The goals for this course are to:
 
 * Understand the public policy process in the US
+
 * Apply various public policy models to real world policy issues
+
 * Analyze the merits of public policy debates
+
 * Analyze the merits of alternative policy solutions to public problems
 
 ### General Social Science Education Learning Outcomes
 
 Upon completion of this course students should be able to apply social science concepts, models or theories to explain human behavior, social interactions or social institutions. This will be assessed in the final exam. 
 
-## Delivery Format
+## Required Materials
 
-This is an asynchronous online course, and so it is largely self-paced. Students must have access to a __computer__ with __high-speed internet access__ throughout the course. In addition, students must have access to __OAKS__ and _should check OAKS frequently (AT LEAST every other day) to be sure not to fall behind_. Finally, students must have access to their __CofC email__. __Computer failure/unavailability does not constitute an excuse for not completing assignments by the due date__. 
+The following materials are __required__. 
 
-\vspace{0.1in}
-\noindent It is essential that students stay on top of the course assignments. I will post due dates, but it is your responsibility to make sure you don't get behind, especially in a class this short. Do not make the mistake of thinking this is an easy class because we're meeting online, or an easy class because it's meeting over the summer. The material is quite difficult, and will take a lot of effort on your part to master. _A summer class that meets face-to-face normally entails three hours of classroom time per weekday, plus reading and homework each night. The workload for this class will be the same, except our classroom will be OAKS_.
+* _Readings_: 
+    * Birkland, Thomas A. 2020. _An Introduction to the Policy Process: Theories, Concepts, and Models of Public Policy Making_ 5th Edition. _4th edition is fine_.
+    * Additional readings listed in the schedule will be available on [OAKS](https://lms.cofc.edu/d2l/login).
 
-### Technical Issues
+* _Poll Everywhere_: You are required to set-up an account and register your phone with Poll Everywhere. 
+    * I will send a link to register for Poll Everywhere to your CofC email 
+    * This is a link to register on the course OAKS page 
+    * _There is no cost to use Poll Everywhere for this class_
+    * I encourage you to review the materials [here](https://www.polleverywhere.com/guides/student) and [here](https://blog.polleverywhere.com/students-poll-everywhere-101/)
 
-If you have technical problems, please contact the Student Computing Support Desk at 843.953.8000 or email \url{studentcomputingsuport@cofc.edu}.
+## Course Prerequisites 
 
-## Contacting the Professor
+POLI 101 or permission of instructor
 
-If you have questions about course related material, and/or course procedures please _post your question to the Course Questions discussion board on_ [OAKS](lms.cofc.edu), so that other students can benefit from your questions and the answer. I will respond to discussion board questions within 48 hours, _if not sooner_. If you are having problems with _course material_, please feel free to email me at \url{nowlinmc@cofc.edu}. 
+## Attendance Policy 
 
-### Email Policy
+Attendance wiil not be taken; however, a lack of attendance will result in missed quiz questions. Additionally, lecture slides will _not_ be made available outside of class. **Do not come to class if you feel ill, I am happy to meet with you to discuss material you missed.** 
 
-Email is the best way to contact me and I am happy to answer questions and/or address concerns over email. Please note the following:
+## Course Requirements and Grading
 
-1. Please allow 24 hours for a response from me before sending a second email.
-2. Assignments must be turned in through the corresponding Assignment folder on OAKS and will not be accepted by email under any circumstances, including "issues with OAKS."
-3. If you are having a technical issue with OAKS, I will not be able to help you, so please contact the [Student Computing Support Desk](https://it.cofc.edu/help/studentcomputing.php). 
-
-# Required Materials 
-
-* Birkland, Thomas A. 2020. _An Introduction to the Policy Process: Theories, Concepts, and Models of Public Policy Making_ 5th Edition. This book is required and a print version is available at the College Bookstore. _Be sure you have the 5th edition_. 
-
-* Access to [OAKS](https://lms.cofc.edu/d2l/login). We will make extensive use of OAKS in this course and several of its tools including Discussion Boards, Quizzes, and Assignments. Tutorials for each of these tools can be found [here](http://blogs.cofc.edu/oaks/students/tutorials/). 
-
-# Navigating This Course 
-
-Course material will be organized into 4 content modules that you will be able to access on OAKS beginning each **Tuesday starting on Tuesday, July 13.** Each module will consist of:
-
-* Readings from the _Birkland_ book 
-
-* Lectures 
-
-* A policy issue that includes readings, a video, and a discussion board 
-
-* Module quiz 
+Performance in this course will be evaluated on the basis of in-class quiz questions, four issues papers, a policy memo, and two exams. Points will be distributed as follows:
 
 \vspace{0.1in}
-\noindent Each module will be made available at 7:00 AM on each Tuesday, and assignments within each module are due by _11:59 PM on each Monday_. 
-
-## Assignments
-
-Your grade in this course will be determined by your performance on 4 module quizzes, 16 discussion board posts, two exams and a research presentation. Detailed instructions for each assignment will be available on OAKS. 
-
-\vspace{0.15in}
-
-\begin{tabular}{l | r | r}
+\begin{tabular}{ l l}
 \hline
-Assignment & Possible Points & \% of Grade \\
+Assignment & Possible Points \\ 
 \hline
-Module quizzes & 100 (total) & 20\%  \\
-Policy issue discussion boards & 100 (total) & 20\%  \\
-Exam I & 100 & 20\% \\
-Exam II & 100 & 20\% \\
-Research presentation & 100 &  20\% \\  
+Quiz Questions & 250 points total \\
+Mid-Term Exam & 100 points \\ 
+Final Exam & 100 points \\
+Issue Papers & (4 at 100 pts each) 400 points total \\
+Policy Memo & 50 points \\
 \hline
-\textbf{Total} & 500 & 100\% \\
+Total &  900 points \\
 \hline
 \end{tabular}
 
-
-### Module Quizzes
-
-Each of the 4 modules will have a 10 multiple-choice question quiz over the readings and lectures for that module. You can use course materials for the quiz, but you must be take each quiz by yourself. _Once you begin the quiz you will 10 minutes to complete it_. Each quiz is worth up to _25 points_. 
-
-### Discussion Boards
-
-Within each module there will be a discussion board based on a policy issue. The discussion board will involve a discussion question about a policy issue that connects to concepts presented in the _Birkland_ readings. To gain an understanding of the various policy issues, you will be assigned a reading and video. _You should do all the readings in the module and watch the video before you answer the discussion question_. For each policy issue discussion board you must a) provide an _response_ **of about 3 to 4 paragraphs** to the discussion question and b) _comment_ on one other students answer, **in about a paragraph**. Note that you will not be able to see or comment on another student's post until you provide your response to the question. Each discussion board is worth up to _25 points_, 18.75 points for your response and 6.25 points for your comment. 
+### Assignments
+All due dates for assignments are on the following schedule. 
 
 \vspace{0.1in}
-\noindent _You should not make any statement to or about anyone in an email or discussion board that you would not make in person. Be respectful of your classmates. In this course we will address policy issues that are controversial. All discussion of issues will be respectful to differing views. Finally, this course will be about learning to approach policy issues as scholars and policy analysts, not as partisans for one particular point of view._
+\noindent _Quiz Questions_: There will be 1 to 2 quiz questions given during each class period and the questions will be answered using Poll Everywhere on your phone. _You must be present in class to be able to answer the questions_. These questions will cover material from the readings and/or class discussion. Each question will be worth 5 points and can not be made up if you miss class. However, I will add up to 25 points to your quiz questions grade at the end of the course. 
 
-### Exam I
+\vspace{0.1in}
+\noindent _Mid-term_: The mid-term exam will be given on **October 13** and will be __taken in OAKS__. All material from the readings, lectures, and in-class discussions are fair game for the mid-term exam. The exam will be multiple choice, short answer, and short essay.
 
-Exam I will be available on OAKS on **Monday, July 26 at 7:00 AM and must be completed by 11:59 PM that same day**. The exam will be _four short essay_ questions and cover material from Modules 1 and 2. Each answer should be **about 500 words**. _You are allowed to use course material for the exam, however, you must take the exam on your own_. 
+\vspace{0.1in}
+\noindent _Final Exam_: **The final exam period is _Saturday, December 11_** from __3:30 PM to 5:30 PM__ and it will also be __taken on OAKS__. The final will _NOT_ be comprehensive and all material from the readings, lectures, and in-class discussions _since the mid-term_ are fair game. The exam will be multiple choice, short answer, and short essay.
 
-### Exam II
+\vspace{0.1in}
+\noindent _Issue Papers_: You will pick a problem or policy issue of interest to you and you will write **four** short, 4 to 5 page, papers about various aspects of the issue. These aspects include the nature of the problem; current and past policies to address the problem; and several alternative approaches to the problem. Details for each issue paper are posted on OAKS. **Issue papers must be turned in through the Assignments folder on OAKS**.     
 
-Exam II will be available on OAKS starting **Monday, August 10 at 7:00 AM and must be completed by 11:59 PM that same day**. The exam will be _four short essay_ questions and cover material from Modules 3 and 4. Each answer should be **about 500 words**. _You are allowed to use course material for the exam, however, you must take the exam on your own_. 
+\vspace{0.1in}
+\noindent _Policy Memo_: For the policy memo assignment, you will write a short, 2 page, memo about your policy problem to a specific decision maker. In the memo you will summarize your issue papers and make a recommendation to the decision maker regarding the policy problem you chose. **The policy memo must be turned in through the Assignments folder on OAKS**.  
 
-### Research Presentation 
+#### Late Work Policy 
 
-Students will create a presentation that profiles a pressing issue of concern at the federal, state, or local level. Examples include climate change, taxes, criminal justice, employment, or education. **You may not choose any of the issues used in the course (democracy, police reform, healthcare, or immigration).** The presentation should include an overview of the issue, current policies in place to address the issue, and a proposed policy solution to the issue. _You should send me an email with your presentation topic by July 23_. Students must create a PowerPoint with audio or video narration in VoiceThread for this presentation. Be creative and feel free to include pictures, interviews of public figures, etc. The presentation should be about 10 minutes and is **due by 11:59 PM on Monday, August 9.**
+Late work is subject to a 48-hour grace period, and after that will be penalized 10% each day (24 hr period) it is late, up to 3 days. After 3 days the assignment will not be accepted. For example, if an assignment is due Wednesday at 2:00 PM, the grace period ends on Friday at 2:00 PM and it is late as of 2:01 PM and you lose 10%. After Saturday at 2:01 PM you lose another 10%, after Sunday at 2:01 PM another 10%, and no work will be accepted after Monday at 2:00 PM. _No late work will accepted 72 hrs after the assignment due date and time. No make-up work is possible_.
 
-## Grades 
-There are __500__ possible points for this course. Grades will be allocated based on your earned points and calculated as a percentage of __500__. A: 94 to 100%; A-: 90 to 93%; B+: 87 to 89%; B: 83 to 86%; B-: 80 to 82%; C+: 77 to 79%; C:  73 to 76%; C-: 70 to 72%; D+: 67 to 69%; D: 63 to 67%; D-: 60 to 62%; F: 59% and below. 
+### Grading Scale 
 
-# Course Content 
+There are __900__ possible points for this course. Grades will
+be allocated based on your earned points and calculated as a
+percentage of __900__. A: 94 to 100%; A-: 90 to 93%; B+: 87 to 89%; B:
+83 to 86%; B-: 80 to 82%; C+: 77 to 79%; C:  73 to 76%; C-: 70 to 72%;
+D+: 67 to 69%; D: 63 to 67%; D-: 60 to 62%; F: 59%  and below 
 
-The following modules will be on OAKS and made available on the dates indicated. Course content and schedule is subject to change. Changes will be announced through email.
 
-## Module 1: Studying Policy and Policymaking in Context 
-#### Available 7:00 AM on July 13  
 
-* _Readings_:
-    * Birkland chapter 1: _Introducing the Policy Process_ 
-    * Birkland chapter 2: _Elements of the Policy Making System_ (pgs., 32-37; skim the rest)
-    * Birkland chapter 3: _The Historical Contexts of Policy Making_ 
-    * Dahl chapter 4: _What is Democracy_? (Available on [OAKS](https://lms.cofc.edu/d2l/home))
 
-* _Policy Issue_: **Democracy** 
-    * _Reading_: CQ Researcher _Voting Rights_
-    * _Video_: [American Insurrection](https://www.pbs.org/wgbh/frontline/film/american-insurrection/)
 
-* _All assignments due by 11:59 PM on July 19_
-
-## Module 2: Actors, Institutions, and Agenda Setting
-#### Available 7:00 AM on July 20 
-
-* _Readings_:
-    * Birkland chapter 4: _Official Actors and Their Roles in Public Policy_
-    * Birkland chapter 5: _Unofficial Actors and Their Roles in Public Policy_ 
-    * Birkland chapter 6: _Agenda Setting, Groups, and Power_ 
-    
-* _Policy Issue_: **Healthcare** 
-    * _Reading_: CQ Researcher _Health and Society_
-    * _Video_: [The Healthcare Divide](https://www.pbs.org/video/the-healthcare-divide-rv6npd/)
-
-* _All assignments due by 11:59pm EST on July 26_
-
-### Email research presentation topic by July 23
-
-### Exam I: July 26 
-
-## Module 3: Policy Types and Decision-Making 
-#### Available 7:00 AM on July 27
-
-* _Readings_:
-    * Birkland chapter 7: _Policies and Policy Types_ 
-    * Birkland chapter 8: _Decision-Making and Policy Analysis_ 
-
-* _Policy Issue_: **Police Reform** 
-    * _Reading_: CQ Researcher _Police Under Scrutiny_
-    * _Video_: [Policing the Police](https://www.pbs.org/video/policing-the-police-2020-ko2tft/)
-
-* _All assignments due by 11:59 PM  on August 2_
-
-## Module 4: Policy Design and Implementation
-#### Available 7:00 AM on August 3
-
-* _Readings_:
-    * Birkland chapter 9: _Policy Design and Policy Tools_  
-    * Birkland chapter 10: _Policy Implementation, Failure, and Learning_ 
-
-* _Policy Issue_: **Immigration** 
-    * _Reading_: CQ Researcher _Immigration Overhaul_
-    * _Video_: [Zero Tolerance](https://www.pbs.org/video/zero-tolerance-en2plm/)
-
-* _All assignments due by 11:59 PM on August 9_
-
-### Research Presentation due August 9 
-
-### Exam II: August 10 
 
