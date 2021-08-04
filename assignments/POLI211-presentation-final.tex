@@ -1,0 +1,69 @@
+\documentclass[11pt]{article}
+\usepackage{fullpage}
+\usepackage{setspace}
+\usepackage{graphicx}
+\usepackage{rotating}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{multirow}
+\usepackage[colorlinks=true,linkcolor=blue,urlcolor=blue,citecolor=blue,
+            anchorcolor=blue]{hyperref}
+\usepackage{natbib}
+\usepackage{bibentry}
+\setcounter{secnumdepth}{0}
+\usepackage{datetime}
+\usepackage{advdate}
+\newdateformat{syldate}{\shortmonthname[{\THEMONTH}] \THEDAY}
+\newsavebox{\TUESDAY}\savebox{\TUESDAY}{Tue}% Tue
+
+\newcommand{\week}{%
+  \paragraph*{\syldate{\today}-\AdvanceDate[2]\syldate{\today}:}% Set heading \quad #1
+  \ifdim\wd1=\wd\TUESDAY
+  \AdvanceDate[7]
+  \else
+  \AdvanceDate[7]
+  \fi%
+}
+
+
+\begin{document}
+
+\begin{center}
+\bigskip
+
+% course title
+{\bf{POLI 211: Introduction to Public Policy}}
+
+% assignment title 
+{\bf{Research Presentation Guidelines}}
+\end{center} 
+
+% due date
+\noindent \textsc{{\bf{Topic Due}}: July 23, to} \href{mailto:nowlinmc@cofc.edu}{nowlinmc@cofc.edu}
+
+% due date
+\noindent \textsc{{\bf{Final Presentation Due}}: August 9}
+
+% length
+\noindent \textsc{{\bf{Length}}: Presentation should be about 10 minutes}
+
+% submit
+% \textsc{\bf{Submit}: }}
+
+\begin{tabular}{r@{\hspace{1.5in}}lr}
+\hline
+\end{tabular}
+
+% \setlength{\unitlength}{1in}
+% \begin{picture}(6,.1) 
+% \put(0,0) {\line(1,0){6.25}}
+% \vspace{-1in}         
+% \end{picture}
+
+\input{POLI211-presentation.tex}
+
+
+
+
+  
+\end{document}
