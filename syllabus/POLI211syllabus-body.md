@@ -1,3 +1,7 @@
+# COVID-19
+
+The COVID-19 pandemic is still ongoing. **The College of Charleston requires that masks be worn while indoors and you must wear a mask at all times while in class.** Although vaccinations are currently not required, _I ask you to be respectful of the health and safety of others_. If you have not received the **COVID-19 vaccine, which is safe, free, and effective, please consider doing so immediately**. Information about the vaccine is available from the [SCDHEC website](https://scdhec.gov/covid19/covid-19-vaccine) and information about where and when to obtain a vaccine is also available on the SCDHEC website [vaccine locator page](https://vaxlocator.dhec.sc.gov/).  
+
 # Course Description
 
 > _Our responsibility is one of decision---for to govern is to choose_ 
@@ -16,7 +20,7 @@
 \noindent This course will be _lecture_ and _discussion_ based. Being able to adequately participate requires you to come to class prepared by having done the assigned readings prior to class. In addition, you should be prepared to participate in class by asking questions and making informed comments that add to the class discussion. **I may call on you to answer a question or discuss your policy issue**. 
 
 \vspace{0.1in}
-\noindent Laptops are allowed, but discouraged. Phones are only to be used to answer quiz questions.  _I encourage you to take notes by hand, with pen and paper_. [You learn better that way](https://www.nytimes.com/2017/11/27/learning/should-teachers-and-professors-ban-student-use-of-laptops-in-class.html). I recommend taking notes using the [Cornell Method](http://www.usu.edu/arc/idea_sheets/pdf/note_taking_cornell.pdf).  Also, lecture slides will __not__ be made available outside of class.  
+\noindent Laptops are allowed, but discouraged. Phones are only to be used to answer quiz questions.  _I encourage you to take notes by hand, with pen and paper_. [You learn better that way](https://www.nytimes.com/2017/11/27/learning/should-teachers-and-professors-ban-student-use-of-laptops-in-class.html). I recommend taking notes using the [Cornell Method](http://www.usu.edu/arc/idea_sheets/pdf/note_taking_cornell.pdf).  Also, lecture slides will generally __not__ be made available outside of class.  
 
 ## Course Goals and Learning Objectives
 
@@ -43,8 +47,6 @@ The following materials are __required__.
     * Additional readings listed in the schedule will be available on [OAKS](https://lms.cofc.edu/d2l/login).
 
 * _Poll Everywhere_: You are required to set-up an account and register your phone with Poll Everywhere. 
-    * I will send a link to register for Poll Everywhere to your CofC email 
-    * This is a link to register on the course OAKS page 
     * _There is no cost to use Poll Everywhere for this class_
     * I encourage you to review the materials [here](https://www.polleverywhere.com/guides/student) and [here](https://blog.polleverywhere.com/students-poll-everywhere-101/)
 
@@ -54,11 +56,11 @@ POLI 101 or permission of instructor
 
 ## Attendance Policy 
 
-Attendance wiil not be taken; however, a lack of attendance will result in missed quiz questions. Additionally, lecture slides will _not_ be made available outside of class. **Do not come to class if you feel ill, I am happy to meet with you to discuss material you missed.** 
+Attendance will not be taken; however, a lack of attendance will result in missed quiz questions. Additionally, lecture slides will _not_ be made available outside of class. **Do not come to class if you feel ill or if you have been exposed to COVID-19, regardless of how you feel. I am happy to meet with you to discuss material you missed.** 
 
 ## Course Requirements and Grading
 
-Performance in this course will be evaluated on the basis of in-class quiz questions, four issues papers, a policy memo, and two exams. Points will be distributed as follows:
+Performance in this course will be evaluated on the basis of in-class quiz questions, four issue papers, a policy memo, and two exams. Points will be distributed as follows:
 
 \vspace{0.1in}
 \begin{tabular}{ l l}
@@ -79,7 +81,7 @@ Total &  900 points \\
 All due dates for assignments are on the following schedule. 
 
 \vspace{0.1in}
-\noindent _Quiz Questions_: There will be 1 to 2 quiz questions given during each class period and the questions will be answered using Poll Everywhere on your phone. _You must be present in class to be able to answer the questions_. These questions will cover material from the readings and/or class discussion. Each question will be worth 5 points and can not be made up if you miss class. However, I will add up to 25 points to your quiz questions grade at the end of the course. 
+\noindent _Quiz Questions_: There will be 1 to 2 quiz questions given during each class period and the questions will be answered using Poll Everywhere on your phone. _You must be present in class to be able to answer the questions_. These questions will cover material from the readings and/or class discussion. Each question will be worth 5 points and can not be made up if you miss class. However, **I will add up to 25 points to your quiz questions grade at the end of the course.** 
 
 \vspace{0.1in}
 \noindent _Mid-term_: The mid-term exam will be given on **October 13** and will be __taken in OAKS__. All material from the readings, lectures, and in-class discussions are fair game for the mid-term exam. The exam will be multiple choice, short answer, and short essay.
@@ -95,15 +97,12 @@ All due dates for assignments are on the following schedule.
 
 #### Late Work Policy 
 
-Late work is subject to a 48-hour grace period, and after that will be penalized 10% each day (24 hr period) it is late, up to 3 days. After 3 days the assignment will not be accepted. For example, if an assignment is due Wednesday at 2:00 PM, the grace period ends on Friday at 2:00 PM and it is late as of 2:01 PM and you lose 10%. After Saturday at 2:01 PM you lose another 10%, after Sunday at 2:01 PM another 10%, and no work will be accepted after Monday at 2:00 PM. _No late work will accepted 72 hrs after the assignment due date and time. No make-up work is possible_.
+Late work is subject to a 48-hour grace period, and after that will be penalized 10% each day (24 hr period) it is late, up to 3 days. After 3 days the assignment will not be accepted. For example, if an assignment is due Wednesday at 2:00 PM, the grace period ends on Friday at 2:00 PM and it is late as of 2:01 PM and you lose 10%. After Saturday at 2:01 PM you lose another 10%, after Sunday at 2:01 PM another 10%, and no work will be accepted after Monday at 2:00 PM. _No late work will accepted 72 hrs after the assignment due date and time_.
 
 ### Grading Scale 
 
-There are __900__ possible points for this course. Grades will
-be allocated based on your earned points and calculated as a
-percentage of __900__. A: 94 to 100%; A-: 90 to 93%; B+: 87 to 89%; B:
-83 to 86%; B-: 80 to 82%; C+: 77 to 79%; C:  73 to 76%; C-: 70 to 72%;
-D+: 67 to 69%; D: 63 to 67%; D-: 60 to 62%; F: 59%  and below 
+There are __900__ possible points for this course. Grades will be allocated based on your earned points and calculated as a percentage of __900__. A: 94 to 100%; A-: 90 to 93%; B+: 87 to 89%; B:
+83 to 86%; B-: 80 to 82%; C+: 77 to 79%; C:  73 to 76%; C-: 70 to 72%; D+: 67 to 69%; D: 63 to 67%; D-: 60 to 62%; F: 59%  and below 
 
 
 
