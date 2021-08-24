@@ -38,7 +38,7 @@ xaringanExtra::use_webcam()
 </br>
 **POLI 211: Introduction to Public Policy**
 
-**Summer 2021**
+**Fall 2021**
 
 .light[Matthew Nowlin, PhD<br>
 Department of Political Science<br>
@@ -46,6 +46,37 @@ College of Charleston
 ]
 
 ]
+
+---
+
+class: title title-1
+
+# COVID-19 
+
+.pull-left[
+**It's not over** 
+
+**Get vaccinated!**
+
+**Masks must be worn in class at all times** 
+
+**If you don't feel well, don't come to class**
+
+**If you have been exposed to COVID-19, don't come to class** 
+]
+
+.pull-right[
+</br>
+<figure>
+  <img src="img/no-mask-no-class.png" width="%">
+</figure>
+]
+
+---
+
+class: center, middle
+
+# Syllabus Stuff
 
 ---
 
@@ -59,7 +90,9 @@ class: title title-1
 
 **Provides an overview of the course and includes required materials and assignments** 
 
-**Specific required readings and assignments for each module will be listed on OAKS** 
+**Readings and due dates may change**
+
+**Be patient and be flexible** 
 
 ---
 
@@ -78,7 +111,7 @@ class: title title-1
 
 - Email: [nowlinmc@cofc.edu](mailto:nowlinmc@cofc.edu)
 
-- Meetings: Use the [Calendly link](https://calendly.com/nowlinmc/meetings) on the syllabus and on OAKS  
+- Office hours (Zoom only): Use the [Calendly link](https://calendly.com/nowlinmc/meetings) on the syllabus and on OAKS  
 
 - **Public Policy Concentration** 
 
@@ -147,51 +180,215 @@ class: title title-1
 
 class: title title-1
 
+# Learning 
+
+* This course will be _lecture_ and _discussion_ based. 
+
+--
+
+* Do assigned readings prior to Monday's class
+
+--
+
+* Be prepared to participate in class
+
+--
+
+* I may call on you to answer a question or discuss your policy issue 
+
+--
+
+* Laptops are allowed, but discouraged 
+
+--
+
+* Phones should only be out for answering quiz questions 
+
+---
+
+class: title title-1
+
 # Required Materials
 
 .pull-left[
-<center>
-<img src="img/birkland.jpg" width="300" height="400">
+* **Birkland** 5th Ed (4th is fine)
+
+* **Poll Everywhere** (it's free!)
+
+* Other required readings will be available on OAKS
 ]
 
 .pull-right[
-Access to [OAKS](https://lms.cofc.edu/d2l/login). We will make extensive use of OAKS in this course and several of its tools including Discussion Boards, Quizzes, and Assignments. 
+<center>
+<img src="img/birkland.jpg" width="400" height="500">
 ]
-
 
 ---
 
 class: title title-1
 
-# Navigating This Course 
+# Course Requirements and Grading
 
-Course material will be organized into 4 content modules that you will be able to access on OAKS beginning each **Tuesday** starting on **Tuesday, July 13**. Each module will consist of:
+**Assignments and Possible Points**  
+
+* Quiz Questions: 250 points total 
+* Mid-Term Exam (on OAKS): 100 points (**Oct 13**)
+* Final Exam (on OAKS): 100 points (**Dec 11**)
+* Issue Papers:  (4 at 100 pts each) 400 points total
+* Policy Memo: 50 points 
+
+---
+
+class: title title-1
+
+# Issue Papers and Policy Memo 
+
+You will pick a problem or policy issue of interest to you and you will write **four** short, 4 to 5 page, papers about various aspects of the issue. Details for each issue paper are posted on OAKS under Content -> Issue Papers. 
 
 .pull-left[
-* Readings from the Birkland text 
-* Course lectures
-* Module quiz 
-  * 10 questions in 10 minutes
+* **Issue paper 1 DUE: Sept 15** 
+* **Issue paper 2 DUE: Oct 6** 
+* **Issue paper 3 DUE: Nov 3** 
+* **Issue paper 4 DUE: Nov 22** 
 ]
 
 .pull-right[
-* Policy issue (Democracy, Healthcare, Police reform, Immigration):
-  * Reading 
-	* Video 
-	* Discussion board 
+**Policy Memo DUE: Dec 6** 
+* Two-page summary of the issue papers
 ]
 
 ---
 
 class: title title-1
 
-# Navigating This Course 
+# Late Work Policy 
 
-* Two exams (4 short essay questions): 
-	* Exam I, July 26
-	* Exam II, August 10
+**Really only applies to issue papers and the policy memo** 
 
-* Research presentation 
-  * Instructions posted on OAKS
+* 48-hour grace period: _can still turn in work with no late penalty_  
+
+--
+
+* After grace period, 10% deduction for each 24 hr period its late 
+
+--
+
+* After 72 hours beyond grace period, assignment will not be accepted 
+
+---
+
+class: title title-1
+
+# Important Information 
+
+**Make note of:** 
+
+* **Honor Code and Academic Integrity** 
+* **Students with Disabilities** 
+* **Financial Challenges** 
+* **Counseling Center** 
+* **Center for Student Learning**
+* **Religious Holiday Policy** 
+* **Weather**
+
+---
+
+class: center, middle
+
+# Quick Course Introduction 
+
+---
+
+class: center, middle
+
+# What is the biggest _problem_ facing the United States? 
+
+---
+
+class: center, middle
+
+# How do we address these (and other) problems? 
+
+---
+
+class: title title-1
+
+# Public Policy 
+
+--
+
+**What is public policy?** 
+
+--
+
+**_Cairney_**: the sum total of government action, from signals of intent to the final outcomes
+
+--
+
+* Does ‘government action’ include what policymakers say they will do as well as what they actually do?
+
+--
+
+* Does it include the effects of a decision as well as the decision itself? 
+
+---
+
+class: title title-1
+
+# Public Policy 
+
+**What is public policy?** 
+
+**_Cairney_**: the sum total of government action, from signals of intent to the final outcomes
+
+* What is ‘the government’ and does it include elected and unelected policymakers?
+
+--
+
+* Does public policy include what policymakers do _not_ do?  
+
+---
+
+class: title title-1
+
+# Course Overview 
+
+.pull-left[
+* Democracy and Public Policy
+* The Context of Policymaking
+* Policy Types
+* Institutions
+* Actors and Subsystems 
+]
+
+.pull-right[
+* Policy stages
+  * **Agenda Setting**
+  * **Policy Formulation**
+  * Decision-Making
+  * Policy Analysis
+  * **Policy Design**
+  * **Policy Implementation** 
+  * Public Budgeting
+  * **Policy Evaluation**
+]
+
+---
+
+class: title title-1
+
+# For Next Time 
+
+**Democracy and Public Policy** 
+
+**Readings**: 
+
+* **SKIM:** [Policy in 500 Words: what is public policy and why does it matter?](https://paulcairney.wordpress.com/2016/04/28/policy-in-500-words-what-is-public-policy-and-why-does-it-matter/)
+* Dahl, Chapter 4: _What is Democracy?_, on [OAKS](https://lms.cofc.edu)
+* Dahl, Chapter 5: _Why Democracy?_, on [OAKS](https://lms.cofc.edu)
+* Levitsky and Ziblatt, Chapter 1: _How Democracies Die: Introduction_, on [OAKS](https://lms.cofc.edu)
+* **SKIM:** Birkland, Chapter 1  
+
+
 
 
