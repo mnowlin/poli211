@@ -86,7 +86,7 @@ class: title title-1
 
 **It's on OAKS (lms.cofc.edu)** 
 
-**Content -> Course Information -> POLI 211 Syllabus** 
+**Content -> Course Information -> Syllabus** 
 
 **Provides an overview of the course and includes required materials and assignments** 
 
@@ -111,7 +111,7 @@ class: title title-1
 
 - Email: [nowlinmc@cofc.edu](mailto:nowlinmc@cofc.edu)
 
-- Office hours (Zoom only): Use the [Calendly link](https://calendly.com/nowlinmc/meetings) on the syllabus and on OAKS  
+- ~~Office~~ Student hours (Zoom only): Use the [Calendly link](https://calendly.com/nowlinmc/meetings) on the syllabus and on OAKS  
 
 - **Public Policy Concentration** 
 
@@ -126,21 +126,21 @@ class: title title-1
 # What is this course about? 
 
 .pull-left[
-<figure>
-<center>
-  <img src="img/jfk.jpg" width="80%">
-</figure>
-]
 
-.pull-right[
-
-</br>
 </br>
 
 
 > Our responsibility is one of decision --- for to govern is to choose 
 
 > -- John F. Kennedy
+]
+
+
+.pull-right[
+<figure>
+<center>
+  <img src="img/jfk.jpg" width="80%">
+</figure>
 ]
 
 ---
@@ -182,7 +182,7 @@ class: title title-1
 
 # Learning 
 
-* This course will be _lecture_ and _discussion_ based. 
+* This course will be _lecture_ and _discussion_ based 
 
 --
 
@@ -198,7 +198,7 @@ class: title title-1
 
 --
 
-* Laptops are allowed, but discouraged 
+* Laptops are allowed, but (not strongly) discouraged 
 
 --
 
@@ -295,57 +295,7 @@ class: title title-1
 
 class: center, middle
 
-# Quick Course Introduction 
-
----
-
-class: center, middle
-
-# What is the biggest _problem_ facing the United States? 
-
----
-
-class: center, middle
-
-# How do we address these (and other) problems? 
-
----
-
-class: title title-1
-
-# Public Policy 
-
---
-
-**What is public policy?** 
-
---
-
-**_Cairney_**: the sum total of government action, from signals of intent to the final outcomes
-
---
-
-* Does ‘government action’ include what policymakers say they will do as well as what they actually do?
-
---
-
-* Does it include the effects of a decision as well as the decision itself? 
-
----
-
-class: title title-1
-
-# Public Policy 
-
-**What is public policy?** 
-
-**_Cairney_**: the sum total of government action, from signals of intent to the final outcomes
-
-* What is ‘the government’ and does it include elected and unelected policymakers?
-
---
-
-* Does public policy include what policymakers do _not_ do?  
+# Quick Overview of Topics 
 
 ---
 
