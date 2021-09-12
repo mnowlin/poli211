@@ -57,8 +57,6 @@ class: title title-1
 
 # Defining Public Policy
 
-</br> 
-
 ## A statement by government of what it intends to do, such as a law, regulation, ruling, decision, order; or a combination of these. The lack of such statements may also be an implicit statement of a policy not to do something 
 
 -*Birkland*, pg 6
@@ -97,10 +95,10 @@ class: title title-1
 .pull-left[
 
 **The Policy Environment** 
-* _Structural_ 
 * Social
 * Political
 * Economic 
+* Structural 
 ]
 
 .pull-right[
@@ -119,7 +117,8 @@ class: title title-1
 .pull-left[
 
 **Inputs** 
-* _Demands for policy_
+
+_Demands for policy_
 * Election results 
 * Public opinion 
 * Communication
@@ -143,7 +142,8 @@ class: title title-1
 .pull-left[
 
 **Outputs** 
-* _Different forms of policy_ 
+
+_Different forms of policy_ 
 * Legislation (**statute law**)
 * Court decisions (**case law**)
 * Regulations 
@@ -199,6 +199,8 @@ _Changes that result from policy choices feedback into the system and as inputs_
 ---
 
 
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/4lHWeHjYm84a0XCClODot?controls=none&short_poll=true" width="800px" height="600px"></iframe>
+
 ???
 democracy quiz question
 
@@ -228,10 +230,14 @@ class: title title-1
 **Changes in the labor force** 
 
 * More working women
-    * More working women in professional positions
-    * More women attending college than men
+  * More working women in professional positions
+  * More women attending college than men
+
+--
 
 * Single women earn less than single men
+
+--
 
 * Dual-income families earn the most
 
@@ -255,6 +261,8 @@ class: center, middle
 # What are the implications of the social environment for public policy?
 
 ---
+
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/nJezsvTgfPrJb8tyjJaFT?controls=none&short_poll=true" width="800px" height="600px"></iframe>
 
 
 ???
@@ -281,6 +289,8 @@ class: title title-1
 
 * _Republicans_ are ideologically homogeneous 
 
+???
+talk about issue papers 
 ---
 
 class: title title-1
@@ -316,6 +326,12 @@ class: title title-1
 
 ---
 
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/hwDof18s0ltSUEoDwkqtz?controls=none&short_poll=true" width="800px" height="600px"></iframe>
+
+???
+demographics quiz question
+---
+
 class: title title-1
 
 # The Political Environment 
@@ -344,7 +360,7 @@ class: title title-1
 
 <figure>
 <center>
-  <img src="img/mood.jpg" width="55%">
+  <img src="img/thermostat.jpeg" width="60%">
 </figure>
 
 ---
@@ -360,11 +376,6 @@ class: title title-1
 
 ???
 implications for policy?
-
----
-
-???
-quiz question
 
 ---
 
@@ -426,9 +437,391 @@ class: title title-1
 
 ---
 
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/Zqs3FL6elgmGCzNteDQky?controls=none&short_poll=true" width="800px" height="600px"></iframe>
+
+???
+quiz question 
+---
+
 class: center, middle 
 
 # The Structural Environment 
 
+---
+
+class: title title-1
+
+# Is the US a Republic or a Democracy? 
+
+.pull-left[
+**Republic**
+
+**Democracy** 
+]
+
+.pull-right[
+**Constitutional**
+
+**Representative**
+]
+
+--
+
+**But...** 
+
+How is authority arranged? 
+
+How do the people rule? When? 
+
+What type of constraints? Who chooses?
+
+How are representatives selected? 
+
+---
+
+class: title title-1
+
+# Constitutional Order 
+
+</br>
+
+<center>
+<img src="img/constitution.jpeg" width="900" height="400"> 
+
+---
+
+class: title title-1
+
+# Constitutional Order
+
+**_We the people_ are sovereign**
+
+--
+
+* The Constitution constrains _government_, not the people
+
+--
+
+* The constitutional order changes to address inequities and problems
+  * The understanding of an indivisible union
+  * Treatment of African Americans and women
+  * Treatment of unpopular minorities
+        
+
+---
+
+class: title title-1
+
+# Constitutional Order
+
+**Stable elements** 
+
+--
+
+.pull-left[
+* Federalism
+* Separation of powers
+* The rule of law
+]
+
+--
+
+.pull-right[
+* Commitment to individual liberty
+* The sanctity of property
+* Civil rights
+]
+
+--
+
+**One of the major features of our constitutional order is policy restraint**  
+
+---
+
+
+class: title title-1
+
+# Separation of Power 
+
+| Congress | President | Courts 
+--- | --- | --- | --- 
+**Legislative** | **make laws** | recommend laws, veto, regulations | review laws  
+**Executive** | override vetos, oversight | **enforce and implement laws** | review executive acts 
+**Judicial** | advise and consent | pardon, nominate judges | **interpret laws** 
+
+
+---
+
+class: center, middle 
+
+# Historical Developments 
+
+---
+
+class: title title-1
+
+# Historical Eras of Policy
+
+**Divided Power: 1789–1860**
+
+**State Activism: 1870–1936**
+
+**National Activism: 1936–1960**
+
+**National Standards: 1960–1980?**
+
+**The End of Big Government: 1980–?**
+
+---
+
+???
+quiz question
+---
+
+class: title title-1
+
+# Divided Power: 1789–1860 
+
+--
+
+.pull-left[
+**Much responsibility was with state government**
+* The nation was rural
+* Sparsely populated and homogeneous
+* Limited federal government
+* Valued individual liberty and private property
+* Not much industry yet
+]
+
+--
+
+.pull-right[
+**There were greater demands on government when**
+* The nation urbanized
+* Population grew
+* The Civil War required strong national action
+]
+
+---
+
+class: title title-1
+
+# State Activism: 1870–1936
+
+**Demands of the Industrial Revolution**
+
+--
+
+* Social strife due to industrialization
+ * The integration of slaves into the labor pool
+ * The birth of the labor movement
+--
+
+* Perceived abuses of business and the drive to regulate it
+  * Anti-trust
+  * Workplace safety
+
+--
+
+**Progressive Era: 1890s - 1920s**
+
+---
+
+class: title title-1
+
+# State Activism: 1870–1936
+
+**Policy achievements**
+
+--
+
+.pull-left[
+* The Civil War Amendments
+    * 13th, 14th, and 15th amendments 
+    * The _incorporation doctrine_ 
+* The Civil Rights Acts of 1866 and 1875
+]
+
+
+.pull-right[
+* Creation of the Interstate Commerce Commission
+* The Pure Food and Drug Act
+* Creation of the Federal Reserve 
+* Business regulation at the state and federal levels
+]
+
+---
+
+class: title title-1
+
+# State Activism: 1870–1936
+
+**Less successful than it might have been** 
+
+--
+
+* _Lochner v. New York_ (1905)
+
+--
+
+* The 1876 election 
+    * Ended Reconstruction 
+
+--
+
+* _Plessy v. Ferguson_ (1896)
+
+---
+
+class: title title-1
+
+# National Activism: 1936–1960  
+
+**The great depression and demands for action**
+
+--
+
+* Some early parts of the _New Deal_ were struck down by the courts 
+    * Court packing 
+    * _The switch in time that saved nine_ 
+
+--
+
+* The depression and WW II eras provided a basis for active federal government
+    * Demobilization and the G.I. Bill
+    * The postwar economic boom
+    * Cold War and remobilization
+    
+---
+
+
+???
+quiz question
+---
+
+class: title title-1
+
+# National Standards: 1960–1980
+
+--
+
+* The reinvigoration of national activism in the 1960s
+    * Johnson’s “Great Society” Programs	
+    * These were changed to “standards”
+
+--
+
+* Continued activity in federal policy making
+    * Creation of the EPA and environmental laws
+    * Wage and price controls
+    * Energy policy
+
+---
+
+class: title title-1
+
+# National Standards: 1960–1980
+
+* Considerable power was returned to the states
+    * Nixon’s “New Federalism”
+    * The reassertion of congressional power after 1974
+
+---
+
+class: center, middle
+
+## _Government cannot solve our problems, it can't set our goals. It cannot define our vision. Government cannot eliminate poverty or provide a bountiful economy or reduce inflation or save our cities or cure illiteracy or provide energy. And government cannot mandate goodness._
+
+---
+
+class: center, middle
+
+<img src="img/carter.jpg"  width="500" height="600" align="middle"> 
+
+---
+
+class: center, middle
+
+## _We know big government does not have all the answers. We know there's not program for every problem. We have worked to give the American people a smaller, less bureaucratic government in Washington. And we have to give the American people one that lives within its means. The era of big government is over._ 
+
+---
+
+class: center, middle
+
+<img src="img/clinton.jpg"  width="500" height="600"> 
+
+---
+
+class: title title-1
+
+# The End of “Big Government”? 
+
+--
+
+* Deregulation of airlines, trucking
+
+--
+
+* Greater concerns with deficits and debts 
+
+--
+
+* How do we define “too big”?
+
+???
+spending; regulation 
+---
+
+class: title title-1
+
+# Trust in Government 
+
+<figure>
+  <img src="img/trust.png" width="%">
+</figure>
+
+---
+
+class: title title-1
+
+# Policymaking Tends Toward Stability 
+
+--
+
+**Ideological and political stability**
+
+--
+
+**Fragmentation**
+
+--
+
+**Basic rules and norms**
+
+--
+
+**Open government and policy restraint**
+
+
+---
+
+class: title title-1
+
+# Policymaking Tends Toward Stability 
+
+
+.pull-left[
+## Will it remain stable? 
+
+<img src="img/insurrection2.jpg" width="%">
+
+]
+
+.pull-right[
+<figure>
+  <img src="img/insurrection.png" width="85%">
+  <img src="img/insurrection3.jpg" width="60%">
+</figure>
+]
 
 
