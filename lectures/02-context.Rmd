@@ -437,7 +437,7 @@ class: title title-1
 
 ---
 
-<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/Zqs3FL6elgmGCzNteDQky?controls=none&short_poll=true" width="800px" height="600px"></iframe>
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/azJpw7hqbgrEguLumC5Jk?controls=none&short_poll=true" width="800px" height="600px"></iframe>
 
 ???
 quiz question 
@@ -514,34 +514,25 @@ class: title title-1
 
 # Constitutional Order
 
-**Stable elements** 
-
---
-
-.pull-left[
-* Federalism
-* Separation of powers
-* The rule of law
-]
-
---
-
-.pull-right[
-* Commitment to individual liberty
-* The sanctity of property
-* Civil rights
-]
-
---
-
 **One of the major features of our constitutional order is policy restraint**  
 
----
+--
 
+**Federalism**: A system of government in which power is shared between a central or federal government and other governments, such as states or provinces. 
+
+--
+
+**Separation of powers**: The constitutional division of powers among the legislative, executive, and judicial branches of government
+* _Separate branches, sharing power_ 
+
+
+---
 
 class: title title-1
 
 # Separation of Power 
+
+<br>
 
 | Congress | President | Courts 
 --- | --- | --- | --- 
@@ -550,6 +541,39 @@ class: title title-1
 **Judicial** | advise and consent | pardon, nominate judges | **interpret laws** 
 
 
+---
+
+class: title title-1
+
+# Constitutional Order
+
+**Cultural commitments** 
+
+--
+
+* Personal liberty
+
+--
+
+* The sanctity of property
+
+--
+
+* The rule of law
+
+--
+
+* Civil rights
+  * Speech
+  * Association 
+  * Expression 
+
+---
+
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/Zqs3FL6elgmGCzNteDQky?controls=none&short_poll=true" width="800px" height="600px"></iframe>
+
+???
+quiz question 
 ---
 
 class: center, middle 
@@ -562,25 +586,21 @@ class: title title-1
 
 # Historical Eras of Policy
 
-**Divided Power: 1789–1860**
+**Divided Power: 1789–1870**
 
-**State Activism: 1870–1936**
+**State Activism: 1870s–1936**
 
 **National Activism: 1936–1960**
 
-**National Standards: 1960–1980?**
+**National Standards: 1961–1980?**
 
 **The End of Big Government: 1980–?**
 
 ---
 
-???
-quiz question
----
-
 class: title title-1
 
-# Divided Power: 1789–1860 
+# Divided Power: 1789–1870 
 
 --
 
@@ -606,15 +626,15 @@ class: title title-1
 
 class: title title-1
 
-# State Activism: 1870–1936
+# State Activism: 1870s–1936
 
 **Demands of the Industrial Revolution**
 
 --
 
 * Social strife due to industrialization
- * The integration of slaves into the labor pool
  * The birth of the labor movement
+ 
 --
 
 * Perceived abuses of business and the drive to regulate it
@@ -639,6 +659,7 @@ class: title title-1
 * The Civil War Amendments
     * 13th, 14th, and 15th amendments 
     * The _incorporation doctrine_ 
+
 * The Civil Rights Acts of 1866 and 1875
 ]
 
@@ -660,16 +681,17 @@ class: title title-1
 
 --
 
-* _Lochner v. New York_ (1905)
-
---
-
 * The 1876 election 
     * Ended Reconstruction 
 
 --
 
 * _Plessy v. Ferguson_ (1896)
+
+--
+
+* _Laissez-faire economics_
+  * _Lochner v. New York_ (1905)
 
 ---
 
@@ -694,14 +716,9 @@ class: title title-1
     
 ---
 
-
-???
-quiz question
----
-
 class: title title-1
 
-# National Standards: 1960–1980
+# National Standards: 1961–1980
 
 --
 

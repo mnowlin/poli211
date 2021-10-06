@@ -80,6 +80,12 @@ A good typology would be:
 Substantive policy type (e.g., education, health, environment)
 ---
 
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/SlldzBxe5gOO2MQn983kc?controls=none&short_poll=true" width="800px" height="600px"></iframe>
+
+???
+quiz question 
+---
+
 class: title title-1
 
 # Policy Typologies 
@@ -95,8 +101,8 @@ class: title title-1
 
 
 * _Regulatory_: Control behavior of individuals or firms
- * Competitive
- * Protection
+ * Competitive: limit the provision of goods and services 
+ * Protection: protect the public from harm 
 
 ---
 
@@ -108,7 +114,10 @@ class: title title-1
 
 _Redistributive_: 
 
-Intended to manipulate the allocation of wealth, property, personal or civil rights, or some other valued item among social classes or racial groups 
+Takes (or seems to take) a resource from one identifiable group and gives a benefit to another readily identifiable group 
+
+* Tend to be the most contentious 
+
 
 ---
 
