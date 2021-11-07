@@ -1,0 +1,631 @@
+---
+title: "Policy Implementation"
+author: ""
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ["default", "css/mcn-slides.css", "css/ath-inferno-fonts.css", "css/animate.css"]
+    seal: false
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: "16:9"
+      navigation:
+        scroll: false
+---
+  
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(warning = FALSE, message = FALSE, 
+                      fig.retina = 3, fig.align = "center")
+```
+
+```{r xaringanExtra, echo=FALSE}
+xaringanExtra::use_webcam()
+```
+
+.pull-left[
+# Policy <br> Implementation
+
+<figure>
+  <img src="sticker.jpg" width="%">
+</figure>
+]
+
+.pull-right[
+
+</br>
+</br>
+</br>
+**POLI 211: Introduction to Public Policy**
+
+**Fall 2021**
+
+.light[Matthew Nowlin, PhD<br>
+Department of Political Science<br>
+College of Charleston
+]
+
+]
+
+---
+
+class: center, middle
+
+# Policy has been enacted, so now what? 
+
+---
+
+???
+quiz q
+---
+
+class: title title-1
+
+# Policy Implementation 
+
+--
+
+</br>
+
+> **The process by which policies enacted by government are put into effect by the relevant agencies** 
+
+-*Birkland* pg XXX
+
+---
+
+class: title title-1
+
+# Policy Implementation 
+
+**Remember, _policy design and implementation are not separate_** 
+
+--
+
+**Legislative intent is often unclear** 
+* Why would Congress write vague legislation? 
+
+--
+
+**Bureaucracies have discretion** 
+* Politics - Administration dichotomy
+
+---
+
+class: title title-1
+
+# Policy Implementation 
+
+**Politics - Administration dichotomy**
+
+--
+
+.pull-left[
+**Politics** 
+
+* Decides what actions should be taken through debate 
+
+* _Values based_
+
+]
+
+--
+
+.pull-right[
+**Administration** 
+
+* Implements policies made by elected officials 
+
+* _Expertise based_
+]
+
+---
+
+class: title title-1
+
+# Policy Implementation 
+
+**Authority and Accountability** 
+
+--
+
+<figure>
+<center>
+  <img src="img/delegate.png" width="%">
+</figure>
+
+---
+
+class: title title-1
+
+# Policy Implementation 
+
+**Not so clear cut** 
+
+--
+
+* _Agencies make policy through implementation_ 
+
+--
+
+* _Implementation battles are also where significant power and debate come in_
+
+--
+
+* _Pre-enactment opposition becomes post-implementation conflict_
+
+---
+
+class: center, middle 
+
+# Policy implementation: Top-down vs bottom-up
+
+---
+
+class: title title-1
+
+# Top-Down Approach 
+
+**Design starts at the top—highest-level policy designers** 
+
+--
+
+**Assumes** 
+
+--
+
+* Clear goals
+
+--
+
+* Clear tools
+
+--
+
+* Single statute or other authority
+
+--
+
+* Clear implementation chain
+
+--
+
+* Knowledge of capacity and commitment of implementers
+
+???
+**Are these assumptions realistic**?
+---
+
+class: title title-1
+
+# Top-Down Approach 
+
+**Issues** 
+
+--
+
+**Does not account for federalism** 
+* Feds can set guidelines better than hard rules
+* Local officials can engage in _strategic delay_ 
+
+--
+
+**Most policies are based in multiple statutes** 
+
+---
+
+class: title title-1
+
+# Top-Down Approach 
+
+**Issues** 
+
+**But, the feds can ...**
+* Impose roles on who implements
+* Apply incentives and sanctions to promote a particular design
+
+---
+
+
+
+???
+quiz q
+---
+
+class: title title-1
+
+# Bottom-Up Approach 
+
+**Start from perspective of _street-level bureaucrats_** 
+
+--
+
+**Assumes** 
+
+--
+
+* Policy goals are ambiguous 
+
+--
+
+* More than a single statute or “policy”
+
+--
+
+* A _network_ of implementation actors
+
+
+???
+**Are these assumptions realistic**? 
+
+---
+
+class: title title-1
+
+# Bottom-Up Approach
+
+**Issues** 
+
+--
+
+**Overemphasizes street-level bureaucrats’ discretion** 
+* Top levels can impose sanctions
+* Street-level and higher may _want_ to implement
+
+--
+
+**Assumes that interest groups are always active participants** 
+
+* Policies without publics—low mobilization
+* Target groups often lack influence, power
+
+---
+
+class: title title-1
+
+# Synthesis: Top-Down and Bottom-Up 
+
+**Implementation is communication between policy makers and implementers**
+
+--
+
+**Requirements for successful implementation** 
+
+--
+
+* Clear messages from credible officials $\rightarrow$ receptive implementers 
+
+--
+
+* Implementers are given sufficient resources 
+
+--
+
+* Support from affected groups 
+
+--
+
+* Discretion can lead to innovation and learning 
+
+---
+
+class: title title-1
+
+# Who Implements Policy? 
+
+**Implementation is a political _and_ technical process**  
+
+--
+
+* The executive branch agencies
+
+* The legislative branch
+
+* The judicial branch
+
+* Other levels of government
+
+* Private actors
+
+--
+
+**Basically everybody** 
+
+---
+
+
+
+???
+quiz q
+---
+
+class: title title-1
+
+# Administrative Burden 
+
+.pull-left[
+**The costs incurred when interacting with government** 
+
+**_Any context in which the state regulates private behavior or structures how individuals seek public services is a venue in which the state may impose burdens on its citizens_**
+]
+
+.pull-right[
+<figure>
+<center>
+  <img src="img/burden-book.jpg" width="%">
+</figure>
+]
+
+---
+
+class: title title-1
+
+# Administrative Burden: Types of Costs
+
+--
+
+**Learning costs** 
+* Costs that people encounter when they search for information about public services
+
+--
+
+**Compliance costs** 
+* Cost of complying with rules and requirements
+
+---
+
+class: title title-1
+
+# Administrative Burden: Types of Costs
+
+**Psychological costs**
+* Stresses, loss of autonomy, or stigma
+
+---
+
+class: center, middle
+
+# Why should we care about administrative burden?  
+
+---
+
+class: title title-1
+
+# Administrative Burden 
+
+**Burdens are consequential**
+
+--
+
+* **The costs citizens' bear influence citizens’ perceptions of government** 
+  * _Taxes_ 
+
+--
+
+* **Burdens matter for whether we gain access to vital resources, such as education**
+  * _Free Application for Federal Student Aid (FAFSA) form_ 
+
+---
+
+class: title title-1
+
+# Administrative Burden 
+
+**Burdens are consequential**
+
+* **Burdens can, quite literally, determine who is and is not a member of society**
+  * _Immigration_ 
+
+---
+
+class: title title-1
+
+# Administrative Burden 
+
+**Burdens are distributive** 
+
+--
+
+**_Those who are least advantaged tend to face more administrative burdens, even though they have fewer resources to manage and overcome them_** 
+
+---
+
+class: title title-1
+
+# Administrative Burden 
+
+**Burdens are distributive**: _Redistributive policies_
+
+--
+
+.pull-left[
+**Universal programs** 
+* Near 100 percent up-take 
+]
+
+--
+
+.pull-right[
+**Means-tested programs**
+.small[
+* SSI: 40 to 60 percent 
+* SNAP: 65 percent 
+* Unemployment: 30 to 60 percent 
+* Medicaid: 50 to 70 percent 
+* EITC: 80 percent 
+* AFDC (77 to 86 percent) vs TANF (42 to 52 percent)
+]
+]
+
+---
+
+class: title title-1
+
+# Administrative Burden 
+
+**Burdens are distributive** 
+
+--
+
+**Resources matter in overcoming burdens** 
+
+--
+
+* College applications
+  * Providing information and waiving application fees made low-income students 46 percent more likely to apply to college 
+  * Providing assistance in completing the FASFA led to a 26 percent increase  
+
+--
+
+**For poor Americans the experience of government is the experience of burdens** 
+
+---
+
+class: title title-1
+
+# Administrative Burden 
+
+**Burdens are constructed** 
+
+--
+
+* Administrative burdens are the product of administrative and political choices
+
+--
+
+* Political actors often see burdens as a policy tool to achieve an ideological goal
+
+---
+
+class: center, middle
+
+background-image: url("https://media.giphy.com/media/WxzjsygSlVd0o6hamp/giphy.gif")
+background-position: 50% 50%
+background-size: 50%
+class: top, fullscale
+
+# Policy <br> Failure 
+
+
+---
+
+class: center, middle
+
+# Why might policies "fail"? 
+
+---
+
+class: title title-1
+
+# Policy Failure 
+
+<figure>
+<center>
+  <img src="img/fail1.png" width="%">
+</figure>
+
+???
+birkland pg XXX
+---
+
+class: title title-1
+
+# Policy Failure 
+
+<figure>
+<center>
+  <img src="img/fail2.png" width="%">
+</figure>
+
+???
+birkland pg XXX
+---
+
+class: center, middle
+
+# Policy failure: 
+
+.left[
+## _Is there an objective measure of success acceptable to all conflicting value positions_?
+]
+
+---
+
+class: title title-1
+
+# Policy Failure 
+
+**Failure is difficult to define** 
+
+--
+* Problems are connected to other problems
+
+--
+* Policies are interrelated 
+
+--
+* Excessive policy demand and expectations 
+
+--
+* Inaccurate causal model
+
+--
+* Counter-factual: _What would have happened with no policy?_ 
+
+---
+
+class: title title-1 
+
+# Policy Learning 
+
+**What do we mean by learning?** 
+
+--
+
+**Learning** : 
+
+* Changing behavior in response to feedback 
+
+--
+
+* Accumulating information for decision-making
+
+--
+
+* Sharpening skills to help do particular tasks better
+
+---
+
+class: title title-1 
+
+# Policy Learning 
+
+**Types of policy learning**
+
+--
+
+**Instrumental learning** 
+
+* Learning about the effectiveness of policy tools 
+
+--
+
+**Social learning**
+
+* Learning about the social causes of problems 
+
+---
+
+class: title title-1 
+
+# Policy Learning 
+
+**Types of policy learning**
+
+
+**Political learning** 
+
+* Learning about better strategies for making political arguments 
+
+
+
