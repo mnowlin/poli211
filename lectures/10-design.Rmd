@@ -363,6 +363,8 @@ class: title title-1
   <img src="img/tools.png" width="80%">
 </figure>
 
+???
+birkland pg 325-326
 ---
 
 class: title title-1
