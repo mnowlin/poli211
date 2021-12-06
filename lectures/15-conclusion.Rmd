@@ -161,8 +161,15 @@ class: center, middle
 * don't let the perfect be the enemy of the good 
 ---
 
-</br>
+.pull-left[
+<figure>
+  <img src="img/progress.jpg" width="%">
+</figure>
+]
 
-.center[![](img/lorax.jpeg)]
-
+.pull-right[
+<figure>
+  <img src="img/lorax.jpeg" width="%">
+</figure>
+]
 
