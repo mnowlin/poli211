@@ -1,0 +1,168 @@
+---
+title: "Conclusion"
+author: ""
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ["default", "css/mcn-slides.css", "css/ath-inferno-fonts.css", "css/animate.css"]
+    seal: false
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: "16:9"
+      navigation:
+        scroll: false
+---
+  
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(warning = FALSE, message = FALSE, 
+                      fig.retina = 3, fig.align = "center")
+```
+
+```{r xaringanExtra, echo=FALSE}
+xaringanExtra::use_webcam()
+```
+
+.pull-left[
+# Conclusion
+
+<br>
+<figure>
+  <img src="sticker.jpg" width="%">
+</figure>
+]
+
+.pull-right[
+
+</br>
+</br>
+</br>
+**POLI 211: Introduction to Public Policy**
+
+**Fall 2021**
+
+.light[Matthew Nowlin, PhD<br>
+Department of Political Science<br>
+College of Charleston
+]
+
+]
+
+---
+class: title title-1
+
+# Course Evaluations 
+
+<figure>
+<center>
+  <img src="img/bern.jpg" width="60%">
+</figure>
+
+---
+
+class: title title-1
+
+# Course Overview 
+
+.pull-left[
+* Democracy and Public Policy
+* The Context of Policymaking
+* Policy Types
+* Institutions
+* Actors and Subsystems 
+]
+
+.pull-right[
+* Policy stages
+  * **Agenda Setting**
+  * **Policy Formulation**
+  * Decision-Making
+  * Policy Analysis
+  * **Policy Design**
+  * **Policy Implementation** 
+  * Public Budgeting
+  * **Policy Evaluation**
+]
+
+---
+
+class: title title-1
+
+# Final Exam
+
+**20 multiple choice questions (3 points each)**
+
+**4 short answers (5 points each)** 
+
+**2 short essays (10 points each)** 
+
+* The final exam **will be taken on OAKS** 
+
+* It will become available on Friday, Dec 10 at 8:00am and will end on Dec 11 at 5:30 
+
+* Once you begin, you will have 2 hours to complete 
+
+---
+
+class: center, middle
+
+# A few final thoughts 
+
+???
+any thoughts on the class you are willing to share?
+---
+
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/yqU8HsDyJUtpcE25Rn3cX?controls=none&short_poll=true" width="800px" height="600px"></iframe>
+
+???
+pollev q 
+---
+
+class: center, middle 
+
+# Democracy is fragile 
+
+???
+institutions matter 
+---
+
+class: center, middle
+
+# Public policy is (should be) about problem solving 
+
+???
+* a product of demand 
+* but disagreements exist 
+* why was your issue a matter of public concern? 
+---
+
+class: center, middle 
+
+# Policymaking is a **process**. There is no clearly defined beginning, middle, and end 
+
+---
+
+class: center, middle
+
+# Public policy is complex 
+
+???
+* problems are complex; policymaking is complex 
+* what was complex about your issue?
+---
+
+class: center, middle
+
+# Ideologies are short-cuts for thinking 
+
+???
+* evidenced-based policymaking 
+* don't let the perfect be the enemy of the good 
+---
+
+</br>
+
+.center[![](img/lorax.jpeg)]
+
+
