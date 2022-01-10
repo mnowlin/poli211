@@ -1,3 +1,4 @@
 # POLI 211: Introduction to Public Policy 
 
-Latest version: Fall 2021 
+Current version: **Spring 2022**
+Previous version: Fall 2021 

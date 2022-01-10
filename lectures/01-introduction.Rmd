@@ -1,0 +1,266 @@
+---
+title: "Introduction"
+author: ""
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ["default", "css/mcn-slides.css", "css/ath-inferno-fonts.css", "css/animate.css"]
+    seal: false
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: "16:9"
+      navigation:
+        scroll: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(warning = FALSE, message = FALSE, 
+                      fig.retina = 3, fig.align = "center")
+```
+
+```{r xaringanExtra, echo=FALSE}
+xaringanExtra::use_webcam()
+```
+
+.pull-left[
+# Course Introduction
+
+<figure>
+  <img src="sticker.jpg" width="%">
+</figure>
+]
+
+.pull-right[
+
+</br>
+</br>
+</br>
+**POLI 211: Introduction to Public Policy**
+
+**Spring 2022**
+
+.light[Matthew Nowlin, PhD<br>
+Department of Political Science<br>
+College of Charleston
+]
+
+]
+
+---
+
+class: center, middle
+
+# What is the biggest _problem_ facing the United States? 
+
+---
+
+class: title title-1
+
+# Problems 
+
+**What makes something a "problem"?** 
+
+--
+
+_What private troubles warrant definition as public problems and thereby legitimately raise claims for remedy with public resources?_ 
+
+--
+
+**Problems vs. Conditions** 
+
+--
+
+**Problems**: something can be done to address it 
+
+--
+
+**Conditions**: nothing can be done to address it; _it's just the way it is_ 
+
+---
+
+class: center, middle
+
+# How do we address problems? 
+
+---
+
+class: center, middle
+
+# What is public policy and how do we study it?
+
+---
+
+class: title title-1
+
+# Public Policy 
+
+**What is public policy?** 
+
+**_Cairney_**: the sum total of _government action_, from signals of intent to the final outcomes
+
+--
+
+* Does ‘government action’ include what policymakers say they will do as well as what they actually do?
+
+--
+
+* Does it include the effects of a decision as well as the decision itself? 
+
+---
+
+class: title title-1
+
+# Public Policy 
+
+**What is public policy?** 
+
+**_Cairney_**: the sum total of government action, from signals of intent to the final outcomes
+
+* What is ‘the government’ and does it include elected and unelected policymakers?
+
+--
+
+* Does public policy include what policymakers do _not_ do?  
+
+---
+
+class: title title-1
+
+# Complexity
+
+**Afghanistan Stability/COIN Dynamics – Security**
+
+<center>
+<img src="img/complex.png" width="900" height="400">
+
+???
+_When we understand that slide, we'll have won the war_ -General Stanley 
+McChrystal 
+
+complex problems and complex process of policymaking 
+
+---
+
+class: title title-1
+
+# Hard to Define 
+
+<figure>
+<center>
+  <img src="img/policy.png" width="75%">
+</figure>
+
+---
+
+class: title title-1
+
+# Public Policy
+
+--
+
+* Policy responds to a _problem_ 
+
+--
+
+* The policy is made on the "public’s" behalf
+
+--
+
+* Policies have goals 
+
+--
+
+* Policies are made by governments
+
+--
+
+* Policies are implemented by public and private actors
+
+--
+
+* Policy can be action or _inaction_ 
+
+--
+
+* Policy allocates values 
+
+???
+**These definitions share the following**:  
+
+---
+
+class: title title-1
+
+# Public Policy
+
+> **A statement by government of what it intends to do, such as a law, regulation, ruling, decision, order; or a combination of these. The lack of such statements may also be an implicit statement of a policy not to do something** 
+
+-*Birkland*, pg 6
+
+---
+
+class: title title-1
+
+# Forms of Public Policy
+
+--
+
+**Public policy can take different forms** 
+
+* The _form_ of policy is based on the institution 
+
+--
+
+**Forms and institutions include**: 
+.pull-left[
+* Laws (legislation): Congress  
+* Regulations: Executive branch agencies 
+]
+
+.pull-right[
+* Executive orders: The president 
+* Court decisions: The courts 
+]
+
+
+---
+
+class: title title-1
+
+# Politics 
+
+--
+
+**"Who gets what, when, and how"** (_Lasswell_)
+
+--
+
+**Dictionary definitions**: 
+  * "the art or science of government"
+  
+  * "political activities characterized by artful and often dishonest practices" 
+    * This dictionary defines artful as "skillful" or "wily" 
+
+--
+
+**Policy choices are made through a political process**
+
+---
+
+class: title title-1
+
+# For Next Time 
+
+**Democracy and Public Policy** 
+
+**Readings**: 
+
+* Dahl, Chapter 4: _What is Democracy?_, on [OAKS](https://lms.cofc.edu)
+* Dahl, Chapter 5: _Why Democracy?_, on [OAKS](https://lms.cofc.edu)
+* Levitsky and Ziblatt, Chapter 1: _How Democracies Die: Introduction_, on [OAKS](https://lms.cofc.edu)
+
+
+
+  

@@ -34,9 +34,7 @@ The goals for this course are to:
 
 * Analyze the merits of alternative policy solutions to public problems
 
-### General Social Science Education Learning Outcomes
-
-Upon completion of this course students should be able to apply social science concepts, models or theories to explain human behavior, social interactions or social institutions. This will be assessed in the final exam. 
+<!-- ### General Social Science Education Learning Outcomes Upon completion of this course students should be able to apply social science concepts, models or theories to explain human behavior, social interactions or social institutions. This will be assessed in the final exam. -->
 
 ## Required Materials
 
@@ -67,13 +65,12 @@ Performance in this course will be evaluated on the basis of in-class quiz quest
 \hline
 Assignment & Possible Points \\ 
 \hline
-Quiz Questions & 250 points total \\
+Quiz Questions & 200 points total \\
 Mid-Term Exam & 100 points \\ 
 Final Exam & 100 points \\
 Issue Papers & (4 at 100 pts each) 400 points total \\
-Policy Memo & 50 points \\
 \hline
-Total &  900 points \\
+Total &  800 points \\
 \hline
 \end{tabular}
 
@@ -84,24 +81,29 @@ All due dates for assignments are on the following schedule.
 \noindent _Quiz Questions_: There will be 1 to 2 quiz questions given during each class period and the questions will be answered using Poll Everywhere on your phone. _You must be present in class to be able to answer the questions_. These questions will cover material from the readings and/or class discussion. Each question will be worth 5 points and can not be made up if you miss class. However, **I will add up to 25 points to your quiz questions grade at the end of the course.** 
 
 \vspace{0.1in}
-\noindent _Mid-term_: The mid-term exam will be given on **October 13** and will be __taken in OAKS__. All material from the readings, lectures, and in-class discussions are fair game for the mid-term exam. The exam will be multiple choice, short answer, and short essay.
+\noindent _Mid-term_: The mid-term exam will be given on **Thursday March 3** and will be __taken in OAKS__. All material from the readings, lectures, and in-class discussions are fair game for the mid-term exam. The exam will be multiple choice, short answer, and short essay.
 
 \vspace{0.1in}
-\noindent _Final Exam_: **The final exam period is _Saturday, December 11_** from __3:30 PM to 5:30 PM__ and it will also be __taken on OAKS__. The final will _NOT_ be comprehensive and all material from the readings, lectures, and in-class discussions _since the mid-term_ are fair game. The exam will be multiple choice, short answer, and short essay.
+\noindent _Final Exam_: **The final exam period is ‌Monday May 2** from __1:00 PM to 3:00 PM__ and it will also be __taken on OAKS__. The final will _NOT_ be comprehensive and all material from the readings, lectures, and in-class discussions _since the mid-term_ are fair game. The exam will be multiple choice, short answer, and short essay.
 
 \vspace{0.1in}
 \noindent _Issue Papers_: You will pick a problem or policy issue of interest to you and you will write **four** short, 4 to 5 page, papers about various aspects of the issue. These aspects include the nature of the problem; current and past policies to address the problem; and several alternative approaches to the problem. Details for each issue paper are posted on OAKS. **Issue papers must be turned in through the Assignments folder on OAKS**.     
 
-\vspace{0.1in}
-\noindent _Policy Memo_: For the policy memo assignment, you will write a short, 2 page, memo about your policy problem to a specific decision maker. In the memo you will summarize your issue papers and make a recommendation to the decision maker regarding the policy problem you chose. **The policy memo must be turned in through the Assignments folder on OAKS**.  
+* **Issue paper 1 due Feb 3** 
+* **Issue paper 2 due Feb 24**
+* **Issue paper 3 due March 24**
+* **Issue paper 4 due April 21**
+
+<!-- \vspace{0.1in} \noindent _Policy Memo_: For the policy memo assignment, you will write a short, 2 page, memo about your policy problem to a specific decision maker. In the memo you will summarize your issue papers and make a recommendation to the decision maker regarding the policy problem you chose. **The policy memo must be turned in through the Assignments folder on OAKS**.-->
+  
 
 #### Late Work Policy 
 
-Late work is subject to a 48-hour grace period, and after that will be penalized 10% each day (24 hr period) it is late, up to 3 days. After 3 days the assignment will not be accepted. For example, if an assignment is due Wednesday at 2:00 PM, the grace period ends on Friday at 2:00 PM and it is late as of 2:01 PM and you lose 10%. After Saturday at 2:01 PM you lose another 10%, after Sunday at 2:01 PM another 10%, and no work will be accepted after Monday at 2:00 PM. _No late work will accepted 72 hrs after the assignment due date and time_.
+Late work is subject to a 48-hour grace period, and after that will be penalized 10% each day (24 hr period) it is late, up to 3 days. After 3 days the assignment will not be accepted. For example, if an assignment is due Thursday at 2:00 PM, the grace period ends on Saturday at 2:00 PM and it is late as of 2:01 PM and you lose 10%. After Sunday at 2:01 PM you lose another 10%, after Monday at 2:01 PM another 10%, and no work will be accepted after Tuesday at 2:00 PM. _No late work will accepted 72 hrs after the assignment due date and time_.
 
 ### Grading Scale 
 
-There are __900__ possible points for this course. Grades will be allocated based on your earned points and calculated as a percentage of __900__. A: 94 to 100%; A-: 90 to 93%; B+: 87 to 89%; B:
+There are __800__ possible points for this course. Grades will be allocated based on your earned points and calculated as a percentage of __800__. A: 94 to 100%; A-: 90 to 93%; B+: 87 to 89%; B:
 83 to 86%; B-: 80 to 82%; C+: 77 to 79%; C:  73 to 76%; C-: 70 to 72%; D+: 67 to 69%; D: 63 to 67%; D-: 60 to 62%; F: 59%  and below 
 
 

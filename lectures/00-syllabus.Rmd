@@ -1,5 +1,5 @@
 ---
-title: "Welcome"
+title: "Syllabus"
 author: ""
 output:
   xaringan::moon_reader:
@@ -25,7 +25,7 @@ xaringanExtra::use_webcam()
 ```
 
 .pull-left[
-# Course Introduction and Overview
+# Course Syllabus
 <figure>
   <img src="sticker.jpg" width="%">
 </figure>
@@ -38,7 +38,7 @@ xaringanExtra::use_webcam()
 </br>
 **POLI 211: Introduction to Public Policy**
 
-**Fall 2021**
+**Spring 2022**
 
 .light[Matthew Nowlin, PhD<br>
 Department of Political Science<br>
@@ -186,7 +186,7 @@ class: title title-1
 
 --
 
-* Do assigned readings prior to Monday's class
+* Do assigned readings prior to Tuesday's class 
 
 --
 
@@ -231,31 +231,25 @@ class: title title-1
 
 **Assignments and Possible Points**  
 
-* Quiz Questions: 250 points total 
-* Mid-Term Exam (on OAKS): 100 points (**Oct 13**)
-* Final Exam (on OAKS): 100 points (**Dec 11**)
+* Quiz Questions: 200 points total 
+* Mid-Term Exam (on OAKS): 100 points (**March 3**)
+* Final Exam (on OAKS): 100 points (**May 2**)
 * Issue Papers:  (4 at 100 pts each) 400 points total
-* Policy Memo: 50 points 
+
 
 ---
 
 class: title title-1
 
-# Issue Papers and Policy Memo 
+# Issue Papers
 
 You will pick a problem or policy issue of interest to you and you will write **four** short, 4 to 5 page, papers about various aspects of the issue. Details for each issue paper are posted on OAKS under Content -> Issue Papers. 
 
-.pull-left[
-* **Issue paper 1 DUE: Sept 15** 
-* **Issue paper 2 DUE: Oct 6** 
-* **Issue paper 3 DUE: Nov 3** 
-* **Issue paper 4 DUE: Nov 22** 
-]
 
-.pull-right[
-**Policy Memo DUE: Dec 6** 
-* Two-page summary of the issue papers
-]
+* **Issue paper 1 DUE: Feb 3** 
+* **Issue paper 2 DUE: Feb 24** 
+* **Issue paper 3 DUE: March 24** 
+* **Issue paper 4 DUE: April 21** 
 
 ---
 
@@ -263,7 +257,7 @@ class: title title-1
 
 # Late Work Policy 
 
-**Really only applies to issue papers and the policy memo** 
+**Really only applies to issue papers** 
 
 * 48-hour grace period: _can still turn in work with no late penalty_  
 
@@ -329,14 +323,11 @@ class: title title-1
 
 # For Next Time 
 
-**Democracy and Public Policy** 
+**Course Introduction** 
 
 **Readings**: 
 
 * **SKIM:** [Policy in 500 Words: what is public policy and why does it matter?](https://paulcairney.wordpress.com/2016/04/28/policy-in-500-words-what-is-public-policy-and-why-does-it-matter/)
-* Dahl, Chapter 4: _What is Democracy?_, on [OAKS](https://lms.cofc.edu)
-* Dahl, Chapter 5: _Why Democracy?_, on [OAKS](https://lms.cofc.edu)
-* Levitsky and Ziblatt, Chapter 1: _How Democracies Die: Introduction_, on [OAKS](https://lms.cofc.edu)
 * **SKIM:** Birkland, Chapter 1  
 
 
