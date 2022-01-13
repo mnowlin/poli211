@@ -50,6 +50,130 @@ College of Charleston
 
 ---
 
+class: title title-1
+
+# COVID-19 
+
+.pull-left[
+**It's not over** 
+
+**Get vaccinated! (including booster)**
+
+**Masks must be worn _properly_ in class at all times** 
+
+**If you don't feel well, don't come to class**
+]
+
+.pull-right[
+</br>
+<figure>
+  <img src="img/no-mask-no-class.png" width="%">
+</figure>
+]
+
+---
+
+class: title title-1
+
+# The Syllabus 
+
+**It's on OAKS (lms.cofc.edu)** 
+
+**Content -> Course Information -> Syllabus** 
+
+**Provides an overview of the course and includes required materials and assignments** 
+
+**Changes will be announced in class, through email, and on OAKS** 
+
+---
+
+class: title title-1
+
+# Your Professor 
+
+.pull-left[
+<figure>
+  <img src="img/me.png" width="%">
+</figure>
+]
+
+.pull-right[
+- Dr. Matthew C. Nowlin 
+
+- Email: [nowlinmc@cofc.edu](mailto:nowlinmc@cofc.edu)
+
+- ~~Office~~ Student hours (Zoom only): Use the [Calendly link](https://calendly.com/nowlinmc/meetings) on the syllabus and on OAKS under _Meet with Me_  
+
+]
+
+
+---
+
+class: title title-1
+
+# What is this course about? 
+
+.pull-left[
+
+</br>
+
+
+> Our responsibility is one of decision --- for to govern is to choose 
+
+> -- John F. Kennedy
+]
+
+
+.pull-right[
+<figure>
+<center>
+  <img src="img/jfk.jpg" width="80%">
+</figure>
+]
+
+---
+
+class: title title-1
+
+# What is this course about? 
+
+**As stated by President Kennedy, making choices is at the heart of governing. How do policymakers make choices regarding public policy? This course will address this question by examining the policymaking process in the United States.** 
+
+--
+
+How are problems defined and understood?  
+
+How can problems be addressed? 
+
+Who decides, and how? 
+
+---
+
+class: title title-1
+
+# Required Materials
+
+.pull-left[
+* **Birkland** 5th Ed (4th is fine)
+
+* **Poll Everywhere** (it's free!)
+
+* Other required readings will be available on OAKS
+]
+
+.pull-right[
+<center>
+<img src="img/birkland.jpg" width="400" height="500">
+]
+
+---
+
+class: center, middle
+
+# Course Introduction
+
+---
+
 class: center, middle
 
 # What is the biggest _problem_ facing the United States? 
@@ -246,6 +370,32 @@ class: title title-1
 --
 
 **Policy choices are made through a political process**
+
+---
+
+class: title title-1
+
+# Course Overview 
+
+.pull-left[
+* Democracy and Public Policy
+* The Context of Policymaking
+* Policy Types
+* Institutions
+* Actors and Subsystems 
+]
+
+.pull-right[
+* Policy stages
+  * **Agenda Setting**
+  * **Policy Formulation**
+  * Decision-Making
+  * Policy Analysis
+  * **Policy Design**
+  * **Policy Implementation** 
+  * Public Budgeting
+  * **Policy Evaluation**
+]
 
 ---
 
