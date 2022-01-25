@@ -38,7 +38,7 @@ xaringanExtra::use_webcam()
 </br>
 **POLI 211: Introduction to Public Policy**
 
-**Fall 2021**
+**Spring 2022**
 
 .light[Matthew Nowlin, PhD<br>
 Department of Political Science<br>
@@ -59,37 +59,41 @@ be respectful
 
 class: center, middle
 
-# What is the biggest _problem_ facing the United States? 
+# What is public policy? 
 
 ---
 
 class: title title-1
 
-# Problems 
+# Public Policy
 
-**What makes something a "problem"?** 
+* Policy responds to a _problem_ 
 
---
+* The policy is made on the "public’s" behalf
 
-_What private troubles warrant definition as public problems and thereby legitimately raise claims for remedy with public resources?_ 
+* Policies have goals 
 
---
+* Policies are made by governments
 
-**Problems vs. Conditions** 
+* Policies are implemented by public and private actors
 
---
+* Policy can be action or _inaction_ 
 
-**Problems**: something can be done to address it 
+* Policy allocates values 
 
---
-
-**Conditions**: nothing can be done to address it; _it's just the way it is_ 
+???
+**These definitions share the following**:  
 
 ---
 
-class: center, middle
+class: title title-1
 
-# How do we address problems? 
+# Public Policy
+
+> **A statement by government of what it intends to do, such as a law, regulation, ruling, decision, order; or a combination of these. The lack of such statements may also be an implicit statement of a policy not to do something** 
+
+.footnote[-*Birkland*, pg 6]
+
 
 ---
 
@@ -97,11 +101,7 @@ class: title title-1
 
 # Public Policy 
 
---
-
-**What is public policy?** 
-
---
+_A statement by government of what it intends to do_ 
 
 **_Cairney_**: the sum total of _government action_, from signals of intent to the final outcomes
 
@@ -113,7 +113,7 @@ class: title title-1
 
 --
 
-* **What system of government do we have?** 
+**What system of government do we have?** 
 
 ---
 
@@ -166,7 +166,8 @@ class: title title-1
 --
 
 **Democracy**: Greek - _demos_ ('the people') + _kratia_ (power, rule)
-* The people rule  
+* The people rule
+* _Majority rule, minority rights_ 
 
 
 ???
@@ -184,7 +185,7 @@ class: title title-1
 
 --
 
-**Representative**: Made up of delegates and trustees 
+**Representative**: Made up of _delegates_ and _trustees_ 
 
 
 --
@@ -228,7 +229,7 @@ class: title title-1
 
 # What is Democracy? 
 
-_A system of government with regular, free and fair elections, in which all adult citizens have the right to vote and possess basic civil liberties such as freedom of speech and association_ 
+> **A system of government with regular, free and fair elections, in which all adult citizens have the right to vote and possess basic civil liberties such as freedom of speech and association**
 
 .footnote[-_Levitsky_ and _Ziblatt_, pg. 6]
 
@@ -241,7 +242,7 @@ class: title title-1
 
 **One _elementary principle_ of democracy** 
 
-_That all members [of a polity] are to be treated (under the constitution) as if they were equally qualified to participate in the process of making decisions about the policies [the polity] will pursue_
+> _That all members [of a polity] are to be treated (under the constitution) as if they were equally qualified to participate in the process of making decisions about the policies [the polity] will pursue_
 
 
 .footnote[-_Dahl_, pg. 37]
@@ -318,17 +319,25 @@ class: title title-1
 
 ---
 
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/gfkzsoQL7vebLPqO13NPL?controls=none&short_poll=true" width="800px" height="600px"></iframe>
+
+---
+
 class: title title-1
 
 # Other Forms of Government 
 
-**Socialism**: the means of production, distribution, and exchange should be owned or regulated by the community as a whole
-* **Communism**: control by one central government 
+**Socialism**: the means of production, distribution, and exchange are owned or regulated by the community as a whole
+* **Communism**: as practiced has meant control by one central government 
 
---
+---
+
+class: title title-1
+
+# Other Forms of Government 
 
 **Fascism**: led by a dictator having complete power, forcibly suppressing opposition and criticism, regimenting all industry, commerce, etc., and emphasizing an aggressive nationalism and often racism
-* **Autocratic**: a person has rules with unlimited authority 
+* **Autocratic**: a _person_ that rules with unlimited authority 
 
 ---
 
@@ -342,6 +351,17 @@ class: title title-1
 --
 
 **Competitive Authoritarianism**: hold elections but ensure that they are fundamentally unfair
+
+---
+
+class: title title-1
+
+# The Vital Center
+
+<figure>
+<center>
+  <img src="img/governments.png" width="%">
+</figure>
 
 
 ---
@@ -365,195 +385,5 @@ class: title title-1
 </figure>
 ]
 
----
-
-<center> 
-<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/ObpV6XGV7UYpaiGkqbn3z?controls=none&short_poll=true" width="800px" height="600px"></iframe>
-
----
-
-class: center, middle
-
-# What is public policy and how do we study it?
-
----
-
-class: title title-1
-
-# Public Policy 
-
-**What is public policy?** 
-
-**_Cairney_**: the sum total of _government action_, from signals of intent to the final outcomes
-
---
-
-* Does ‘government action’ include what policymakers say they will do as well as what they actually do?
-
---
-
-* Does it include the effects of a decision as well as the decision itself? 
-
----
-
-class: title title-1
-
-# Public Policy 
-
-**What is public policy?** 
-
-**_Cairney_**: the sum total of government action, from signals of intent to the final outcomes
-
-* What is ‘the government’ and does it include elected and unelected policymakers?
-
---
-
-* Does public policy include what policymakers do _not_ do?  
-
----
-
-class: title title-1
-
-# Complexity
-
-**Afghanistan Stability/COIN Dynamics – Security**
-
-<center>
-<img src="img/complex.png" width="900" height="400">
-
-???
-_When we understand that slide, we'll have won the war_ -General Stanley 
-McChrystal 
-
-complex problems and complex process of policymaking 
-
----
-
-class: title title-1
-
-# Hard to Define 
-
-<figure>
-<center>
-  <img src="img/policy.png" width="75%">
-</figure>
-
----
-
-class: title title-1
-
-# Public Policy
-
---
-
-* Policy responds to a _problem_ 
-
---
-
-* The policy is made on the "public’s" behalf
-
---
-
-* Policies have goals 
-
---
-
-* Policies are made by governments
-
---
-
-* Policies are implemented by public and private actors
-
---
-
-* Policy can be action or _inaction_ 
-
---
-
-* Policy allocates values 
-
-???
-**These definitions share the following**:  
-
----
-
-class: title title-1
-
-# Public Policy
-
-
-
-</br> 
-
-## A statement by government of what it intends to do, such as a law, regulation, ruling, decision, order; or a combination of these. The lack of such statements may also be an implicit statement of a policy not to do something 
-
--*Birkland*, pg 6
-
----
-
-class: title title-1
-
-# Forms of Public Policy
-
---
-
-**Public policy can take different forms** 
-
-* The _form_ of policy is based on the institution 
-
---
-
-**Forms and institutions include**: 
-.pull-left[
-* Laws (legislation): Congress  
-* Regulations: Executive branch agencies 
-]
-
-.pull-right[
-* Executive orders: The president 
-* Court decisions: The courts 
-]
-
-
----
-
-class: title title-1
-
-# Politics 
-
---
-
-**"Who gets what, when, and how"** (_Lasswell_)
-
---
-
-**Dictionary definitions**: 
-  * "the art or science of government"
-  
-  * "political activities characterized by artful and often dishonest practices" 
-    * This dictionary defines artful as "skillful" or "wily" 
-
---
-
-**Policy choices are made through a political process**
-
----
-
-<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/r3eeWh9ryddd78Vi1YoBP?controls=none&short_poll=true" width="800px" height="600px"></iframe>
-
----
-
-class: title title-1
-
-# For Next Week  
-
-**Yes, we are here on Labor Day** 
-
-**The Context of Policymaking**
-
-* _Readings_:
-    * Birkland, Chapter 2
-    * Birkland, Chapter 3
-
-**Be prepared to answer some quiz questions**
+<!-- show _Preserving Democracy: https://www.pbs.org/show/preserving-democracy-pursuing-more-perfect-union/-->
 
