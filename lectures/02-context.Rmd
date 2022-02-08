@@ -20,10 +20,6 @@ knitr::opts_chunk$set(warning = FALSE, message = FALSE,
                       fig.retina = 3, fig.align = "center")
 ```
 
-```{r xaringanExtra, echo=FALSE}
-xaringanExtra::use_webcam()
-```
-
 .pull-left[
 # The Context of Policymaking
 <figure>
@@ -277,12 +273,8 @@ class: title title-1
 </figure>
 ]
 
----
-
-class: center, middle
-
-# What are the implications of the social environment for public policy?
-
+???
+What are the implications of the social environment for public policy?
 ---
 
 <iframe src="https://embed.polleverywhere.com/multiple_choice_polls/OE7O2QciYjeAXVy6Sdotz?controls=none&short_poll=true" width="800px" height="600px"></iframe>
@@ -311,8 +303,6 @@ class: title title-1
 
 * _Republicans_ are ideologically homogeneous 
 
-???
-talk about issue papers 
 ---
 
 class: title title-1
@@ -346,12 +336,6 @@ class: title title-1
   <img src="img/polar4.jpg" width="85%">
 </figure>
 
----
-
-<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/hwDof18s0ltSUEoDwkqtz?controls=none&short_poll=true" width="800px" height="600px"></iframe>
-
-???
-demographics quiz question
 ---
 
 class: title title-1
@@ -444,6 +428,18 @@ class: title title-1
 # The Economic Environment 
 
 <figure>
+  <img src="img/cpi.png" width="%">
+</figure>
+
+???
+Consumer price index: measure of inflation
+---
+
+class: title title-1
+
+# The Economic Environment 
+
+<figure>
   <img src="img/unemploy.png" width="%">
 </figure>
 
@@ -457,12 +453,6 @@ class: title title-1
   <img src="img/labor.png" width="%">
 </figure>
 
----
-
-<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/azJpw7hqbgrEguLumC5Jk?controls=none&short_poll=true" width="800px" height="600px"></iframe>
-
-???
-quiz question 
 ---
 
 class: center, middle 
@@ -552,7 +542,7 @@ class: title title-1
 
 class: title title-1
 
-# Separation of Power 
+# Separation of Power and Function
 
 <br>
 
@@ -592,10 +582,10 @@ class: title title-1
 
 ---
 
-<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/Zqs3FL6elgmGCzNteDQky?controls=none&short_poll=true" width="800px" height="600px"></iframe>
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/SPRuLUGnGvGy3h4bb0XgJ?controls=none&short_poll=true" width="800px" height="600px"></iframe>
 
 ???
-quiz question 
+quiz
 ---
 
 class: center, middle 
@@ -759,12 +749,18 @@ class: title title-1
 
 class: title title-1
 
-# National Standards: 1960–1980
+# National Standards: 1961–1980
 
 * Considerable power was returned to the states
     * Nixon’s “New Federalism”
     * The reassertion of congressional power after 1974
 
+---
+
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/8Oc5hDMzzhzRT3I9axxkY?controls=none&short_poll=true" width="800px" height="600px"></iframe>
+
+???
+quiz q 
 ---
 
 class: center, middle

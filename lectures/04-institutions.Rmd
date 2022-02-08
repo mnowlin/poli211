@@ -20,9 +20,6 @@ knitr::opts_chunk$set(warning = FALSE, message = FALSE,
                       fig.retina = 3, fig.align = "center")
 ```
 
-```{r xaringanExtra, echo=FALSE}
-xaringanExtra::use_webcam()
-```
 
 .pull-left[
 # Institutions 
@@ -38,7 +35,7 @@ xaringanExtra::use_webcam()
 </br>
 **POLI 211: Introduction to Public Policy**
 
-**Fall 2021**
+**Spring 2022**
 
 .light[Matthew Nowlin, PhD<br>
 Department of Political Science<br>
@@ -100,7 +97,7 @@ class: title title-1
 
 ---
 
-<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/rrJxi14wACyhRn4DqAjXe?controls=none&short_poll=true" width="800px" height="600px"></iframe>
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/EMWHsgPAjhlS0bPvyAoBM?controls=none&short_poll=true" width="800px" height="600px"></iframe>
 
 ???
 pollev q
@@ -110,8 +107,6 @@ class: title title-1
 
 # Institutions and Democracy 
 
-<br>
-
 > If a _country_ is to be governed democratically, what would be required? At a minimum, it would need to possess certain political arrangements, practices, or institutions that would go a long way, even if not all the way, toward meeting ideal democratic criteria. 
 
 .tr[
@@ -119,6 +114,37 @@ class: title title-1
 ]
 
 ---
+
+class: title title-1
+
+# What is Democracy? 
+
+**Criteria for a democratic process** 
+
+* Effective participation 
+
+* Equality in voting 
+
+* Gaining enlightened understanding 
+
+* Exercising final control over the agenda 
+
+* Inclusion of adults 
+
+???
+
+Effective participation: all members must have _equal and effective opportunities_  to make their views known 
+
+Equality in voting: all members must have an _equal and effective opportunity_ to vote and all votes must be counted as equal 
+
+Gaining enlightened understanding: _equal and effective opportunities_  for learning about relevant alternative policies and their likely consequences 
+
+Exercising final control over the agenda: members must have the exclusive opportunity to decide how and, if they choose, what matter will be placed on the agenda 
+
+Inclusion of adults: all (or at least most) adult permanent residents should have the full rights of citizens that are implied by the first four criteria 
+
+---
+
 
 class: title title-1
 
@@ -232,7 +258,7 @@ class: title title-1
 
 --
 
-**Examples**? 
+**Examples?** 
 
 ---
 
@@ -246,7 +272,11 @@ class: title title-1
 
 --
 
-**Examples**? 
+**Examples?** 
+
+---
+
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/ORwD8jNub3d5wbqGFbOou?controls=none&short_poll=true" width="800px" height="600px"></iframe>
 
 ---
 
@@ -261,7 +291,7 @@ class: title title-1
 ]
 
 .pull-right[
-<img src="img/hier.png" width="925" height="450">
+<img src="img/hier.png" width="945" height="450">
 ]
 
 ---
@@ -353,7 +383,7 @@ class: title title-1
 
 ---
 
-<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/lOK4JeVd58eRSmibPYJsZ?controls=none&short_poll=true" width="800px" height="600px"></iframe>
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/SyEHW5Gr7ztsKqr0U0IqI?controls=none&short_poll=true" width="800px" height="600px"></iframe>
 
 ???
 quiz question
@@ -558,10 +588,6 @@ class: title title-1
   * Political acceptability
 
 ---
-
-class: title title-1
-
-# Regulations 
 
 <figure>
 <center>

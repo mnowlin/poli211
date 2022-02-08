@@ -20,10 +20,6 @@ knitr::opts_chunk$set(warning = FALSE, message = FALSE,
                       fig.retina = 3, fig.align = "center")
 ```
 
-```{r xaringanExtra, echo=FALSE}
-xaringanExtra::use_webcam()
-```
-
 .pull-left[
 # Policy <br> Types
 <figure>
@@ -38,7 +34,7 @@ xaringanExtra::use_webcam()
 </br>
 **POLI 211: Introduction to Public Policy**
 
-**Fall 2021**
+**Spring 2022**
 
 .light[Matthew Nowlin, PhD<br>
 Department of Political Science<br>
@@ -80,7 +76,7 @@ A good typology would be:
 Substantive policy type (e.g., education, health, environment)
 ---
 
-<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/SlldzBxe5gOO2MQn983kc?controls=none&short_poll=true" width="800px" height="600px"></iframe>
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/RddpJQWZ92MFFBS4Xlik6?controls=none&short_poll=true" width="800px" height="600px"></iframe>
 
 ???
 quiz question 
