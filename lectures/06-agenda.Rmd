@@ -20,10 +20,6 @@ knitr::opts_chunk$set(warning = FALSE, message = FALSE,
                       fig.retina = 3, fig.align = "center")
 ```
 
-```{r xaringanExtra, echo=FALSE}
-xaringanExtra::use_webcam()
-```
-
 .pull-left[
 # Agenda <br> Setting 
 <figure>
@@ -38,7 +34,7 @@ xaringanExtra::use_webcam()
 </br>
 **POLI 211: Introduction to Public Policy**
 
-**Fall 2021**
+**Spring 2022**
 
 .light[Matthew Nowlin, PhD<br>
 Department of Political Science<br>
@@ -102,12 +98,6 @@ class: title title-1
 
 ---
 
-<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/Np08fmmthLAIiGdbMlC3Y?controls=none&short_poll=true" width="800px" height="600px"></iframe>
-
-???
-pollev
----
-
 class: title title-1
 
 # Levels of the Agenda 
@@ -117,6 +107,10 @@ class: title title-1
   <img src="img/agenda-levels.png" width="%">
 </figure>
 
+
+---
+
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/ziTQpsUq6YvNOLejrieqC?controls=none&short_poll=true" width="800px" height="600px"></iframe>
 
 ---
 
@@ -163,10 +157,8 @@ class: title title-1
 
 ---
 
-<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/opXyMEq6djZ3yr8YNTwj4?controls=none&short_poll=true" width="800px" height="600px"></iframe>
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/USoXTc9Qq0clYdcOn2bS2?controls=none&short_poll=true" width="800px" height="600px"></iframe>
 
-???
-quiz q
 ---
 
 class: center, middle 
@@ -251,6 +243,10 @@ class: title title-1
 
 ---
 
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/ewBfKU5YaUmkCSiZgJx6C?controls=none&short_poll=true" width="800px" height="600px"></iframe>
+
+---
+
 class: title title-1
 
 # Power and Agenda Setting 
@@ -275,12 +271,6 @@ _The definition of the alternatives is the supreme instrument of power_
 
 -*E.E.  Schattschnieider*
 
----
-
-<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/hOmi6iT6TIvqKUbFxQK8F?controls=none&short_poll=true" width="800px" height="600px"></iframe>
-
-???
-quiz q
 ---
 
 class: title title-1

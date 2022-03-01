@@ -20,10 +20,6 @@ knitr::opts_chunk$set(warning = FALSE, message = FALSE,
                       fig.retina = 3, fig.align = "center")
 ```
 
-```{r xaringanExtra, echo=FALSE}
-xaringanExtra::use_webcam()
-```
-
 .pull-left[
 # Actors and Subsystems 
 <figure>
@@ -38,7 +34,7 @@ xaringanExtra::use_webcam()
 </br>
 **POLI 211: Introduction to Public Policy**
 
-**Fall 2021**
+**Spring 2022**
 
 .light[Matthew Nowlin, PhD<br>
 Department of Political Science<br>
@@ -59,22 +55,9 @@ class: title title-1
 
 # Unofficial Actors 
 
-<br>
-
 > **Unofficial actor**: A participant in the policy process who does _not_ have constitutionally or legally created incentives or mandates to be a part of the process, yet are important to the policy process 
 
 > -*Birkland*, pg 115
-
----
-
-class: title title-1 
-
-# Unofficial Actors 
-
-<figure>
-<center>
-  <img src="img/storming.jpg" width="60%">
-</figure>
 
 ---
 
@@ -104,12 +87,15 @@ class: title title-1
 
 ---
 
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/J4bSvUCcbUhvtJtLW9MCo?controls=none&short_poll=true" width="800px" height="600px"></iframe>
+
+---
+
 class: title title-1
 
 # Mobilization 
 
-</br>
-> ## The process by which people or groups are motivated to take action, such as through lobbying, protest, or any other form of expression in response to an issue or problem 
+> **The process by which people or groups are motivated to take action, such as through lobbying, protest, or any other form of expression in response to an issue or problem** 
 
 > -*Birkland*, pg 167
 
@@ -142,12 +128,6 @@ class: title title-1
 
 * Public interest or competing narrow interests? 
 
----
-
-<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/sh6L461WgDIF50N1KiP9S?controls=none&short_poll=true" width="800px" height="600px"></iframe>
-
-???
-quiz q 
 ---
 
 class: title title-1
@@ -207,13 +187,13 @@ class: title title-1
 
 ---
 
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/d8dgFjWjpNLAhFQcrwke9?controls=none&short_poll=true" width="800px" height="600px"></iframe>
+
+---
+
 class: title title-1
 
 # Interest Groups
-
---
-
-</br> 
 
 > **A collection of people or organizations that unite to advance their desired political (and policy) outcomes in government and society.** 
 
@@ -225,7 +205,7 @@ class: title title-1
 
 # Interest Groups
 
-**Why are groups so important?**
+**In what ways can interest groups influence policymaking?**
 
 --
 
@@ -305,7 +285,7 @@ class: title title-1
 
 .pull-left[
 
-> A broad-based effort by a large group of people to make fundamental changes in public policy and attitudes
+> **A broad-based effort by a large group of people to make fundamental changes in public policy and attitudes** 
 
 > -*Birkland*, pg 177
 
@@ -319,10 +299,8 @@ class: title title-1
 
 ---
 
-<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/HjxK9sSc9pZpK8rcnzKMG?controls=none&short_poll=true" width="800px" height="600px"></iframe>
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/zMS9JcVYOO9ZmUZKsDSpR?controls=none&short_poll=true" width="800px" height="600px"></iframe>
 
-???
-quiz q 
 ---
 
 class: title title-1
@@ -436,12 +414,6 @@ class: title title-1
 
 ---
 
-<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/MgpxJ9kepcOMsnd5A9KeX?controls=none&short_poll=true" width="800px" height="600px"></iframe>
-
-???
-quiz q
----
-
 class: title title-1
 
 # Political Parties 
@@ -489,6 +461,7 @@ class: title title-1
 </figure>
 
 <br>
+<br>
 
 ---
 
@@ -516,7 +489,7 @@ Ideological
 
 --
 
-**Examples ?**
+**Examples?**
 
 ---
 
@@ -542,30 +515,6 @@ Most news in an average newspaper is wire service copy, press releases, etc.
 
 ---
 
-class: title title-1
-
-# The Media 
-
-**What role does the media play in policymaking?** 
-
-Much of what is printed or aired is because of the beat system and personal relationships with sources
-
---
-
-_Journalistic norms_ vs _Profitability_  
-
----
-
-class: title title-1 
-
-# The Media: Bias  
-
-<figure>
-<center>
-  <img src="img/media.jpg" width="70%">
-</figure>
-
----
 
 class: title title-1
 
@@ -594,32 +543,6 @@ class: title title-1
 what to think about, not what to think
 ---
 
-class: title title-1 
-
-# The Media: Framing 
-
-**Increases in murder in 2020** 
-
---
-
-.pull-left[
-<figure>
-<center>
-  <img src="img/crime1.jpg" width="%">
-</figure>
-]
-
---
-
-.pull-right[
-<figure>
-<center>
-  <img src="img/crime2.jpg" width="80%">
-</figure>
-]
-
----
-
 class: title title-1
 
 # The Media: Trust
@@ -642,10 +565,8 @@ class: title title-1
 
 ---
 
-<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/IMpC6DDY3jzqpMAu2pYyI?controls=none&short_poll=true" width="800px" height="600px"></iframe>
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/cdA6mS8EcjXxp1Acs8R6k?controls=none&short_poll=true" width="800px" height="600px"></iframe>
 
-???
-pollev
 ---
 
 class: center, middle

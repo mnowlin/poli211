@@ -15,11 +15,11 @@
 \usepackage{advdate}
 \usepackage{fontawesome}
 \newdateformat{syldate}{\shortmonthname[{\THEMONTH}] \THEDAY}
-\newsavebox{\MONDAY}\savebox{\MONDAY}{Mon}% Monday
+\newsavebox{\TUESDAY}\savebox{\TUESDAY}{Tue}% Tuesday
 
 \newcommand{\week}{%
   \paragraph*{\syldate{\today}:}% Set heading \quad #1
-  \ifdim\wd1=\wd\MONDAY
+  \ifdim\wd1=\wd\TUESDAY
   \AdvanceDate[2]
   \else
   \AdvanceDate[7]
@@ -39,13 +39,13 @@
 \textsc{POLI 211}
 
 % semester 
-\textsc{Fall 2021}
+\textsc{Spring 2022}
 
 \vspace{0.15in}
 
 % meeting time and location 
 \textsc{Maybank 316} \\
-\textsc{2:00PM - 3:15PM MW}  
+\textsc{1:40PM - 2:55PM TR}  
 \end{center}
 
 \vspace{0.15in}
