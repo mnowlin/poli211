@@ -1,62 +1,430 @@
-<!DOCTYPE html>
-<html lang="" xml:lang="">
-  <head>
-    <title>Policy Analysis</title>
-    <meta charset="utf-8" />
-    <script src="libs/header-attrs-2.7.4/header-attrs.js"></script>
-    <link href="libs/remark-css-0.0.1/default.css" rel="stylesheet" />
-    <script src="libs/xaringanExtra-webcam-0.0.1/webcam.js"></script>
-    <script id="xaringanExtra-webcam-options" type="application/json">{"width":"200","height":"200","margin":"1em"}</script>
-    <link rel="stylesheet" href="css/mcn-slides.css" type="text/css" />
-    <link rel="stylesheet" href="css/ath-inferno-fonts.css" type="text/css" />
-    <link rel="stylesheet" href="css/animate.css" type="text/css" />
-  </head>
-  <body>
-    <textarea id="source">
-
+---
+title: "Policy Analysis"
+author: ""
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ["default", "css/mcn-slides.css", "css/ath-inferno-fonts.css", "css/animate.css"]
+    seal: false
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: "16:9"
+      navigation:
+        scroll: false
+---
   
-
-
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(warning = FALSE, message = FALSE, 
+                      fig.retina = 3, fig.align = "center")
+```
 
 
 .pull-left[
-# Policy &lt;br&gt; Analysis
+# Policy Analysis & <br> Decision-Making
 
-&lt;figure&gt;
-  &lt;img src="sticker.jpg" width="%"&gt;
-&lt;/figure&gt;
+<figure>
+  <img src="sticker.jpg" width="%">
+</figure>
 ]
 
 .pull-right[
 
-&lt;/br&gt;
-&lt;/br&gt;
-&lt;/br&gt;
+</br>
+</br>
+</br>
 **POLI 211: Introduction to Public Policy**
 
-**Fall 2021**
+**Spring 2022**
 
-.light[Matthew Nowlin, PhD&lt;br&gt;
-Department of Political Science&lt;br&gt;
+.light[Matthew Nowlin, PhD<br>
+Department of Political Science<br>
 College of Charleston
 ]
 
 ]
 
+
+???
+annoucements: 
+
+issue paper 3 is due March 24 
+
+Lectures slides will NOT be available for the final 
 ---
+
+class: title title-1
+
+# Policymaking System 
+
+<figure>
+<center>
+  <img src="img/system.png" width="67%">
+</figure>
+
+
+---
+
+class: title title-1
+
+# Policy Stages 
+
+<br>
+<figure>
+<center>
+  <img src="img/stages.png" width="%">
+</figure>
+
+---
+
+class: title title-1
+
+# Policy Formulation 
+</br>
+
+> **Development of pertinent and acceptable proposed courses of action for dealing with public problems**
+
+> -*Anderson*, pg 114 
+
+---
+
+class: title title-1
+
+# The Formulation of Policy Proposals
+
+**Key questions**
+
+* Is the policy technically sound? 
+
+* Are the budgetary costs reasonable?
+
+* Is the proposal politically acceptable?
+
+* If the proposal becomes law, will the public accept it?
+
+
+---
+
+class: center, middle 
+
+#  How do we get from policy formulation $\rightarrow$ alternative selection $\rightarrow$ enactment? 
+
+---
+
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/fkTm0MGPrKBPBUg6BfCKr?controls=none&short_poll=true" width="800px" height="600px"></iframe>
+
+???
+spring break quiz q
+---
+
+class: title title-1
+
+# Some General Concepts
+
+**All policies have goals** 
+
+--
+
+**What is the difference between a policy _output_ and an _outcome_?**
+
+--
+
+* **Output**: The measurable things an agency or organization produces 
+
+--
+
+* **Outcome**: The substantive results of the implementation of a policy 
+
+--
+
+**Policy goals are related to _outcomes_**
+
+---
+
 
 class: center, middle
 
-# Why do we need public policy?
+# How do we decide which policy idea is most likely to achieve the desired outcome? 
 
 ---
 
-&lt;iframe src="https://embed.polleverywhere.com/multiple_choice_polls/CEgVBnUODlT2rIgRCYwdT?controls=none&amp;short_poll=true" width="800px" height="600px"&gt;&lt;/iframe&gt;
+class: title title-1
+
+# Policy Analysis 
+
+--
+
+> **The practice by which policy analysts use various analytic tools, often derived from fields such as operations research, statistics, and economics, to understand the likely outcomes and benefits of particular policy ideas.** 
+
+-*Birkland*, pg. 285 
+
+---
+
+class: title title-1
+
+# Policy Analysis 
+
+**Identify _causal models_ of policy** 
+
+* How does policy (X) impact outcome (Y)? 
+
+* _How would a carbon tax reduce GHG emissions?_  
+
+--
+
+**Practice of policy analysis** 
+
+* Quantitative data, statistics  
+
+* Cost-Benefit Analysis 
+
+---
+
+class: title title-1
+
+# Policy Analysis 
+
+**Role of the policy analyst and analytical integrity** 
+
+--
+
+* **Objective Technician**: _Let the analysis speak for itself_  
+
+--
+
+* **Client's Advocate**: _Take advantage of ambiguity to advise clients' positions_  
+
+--
+
+* **Issue Advocate**: _Emphasize ambiguity and excluded values when analysis does not support advocacy_  
+
+---
+
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/BsalJQfkE7l7GBuxX6rG6?controls=none&short_poll=true" width="800px" height="600px"></iframe>
+
+???
+pollev
+---
+
+class: title title-1
+
+# A (Very) Brief History of Policy Analysis 
+
+**_Muller v. Oregon_ (1908)**
+
+???
+_Muller v. Oregon_ (1908): the supreme court accepted a legal brief that used social scientific data about the harms to women of working too many hours
+--
+
+**Use of rationality to solve public problems** 
+* Expanding knowledge in universities
+* Increasing policy demands from the New Deal
+
+--
+
+**The "Whiz Kids"** 
+* Application of cutting-edge social science 
+
+--
+
+**Policy analysis was well-established by the 1960s** 
+
+ 
+---
+
+class: title title-1
+
+# A (Very) Brief History of Policy Analysis 
+
+.pull-left[
+**Policy Sciences**
+* Orientation toward problem solving, based in theory and empiricism
+
+* Multidisciplinary
+
+* Normative component: _Enhance the dignity of man_
+]
+
+.pull-right[
+<figure>
+<center>
+  <img src="img/lasswell2.jpg" width="%">
+</figure>
+<center>
+.small[_Harold Lasswell_]
+]
+
+---
+
+class: title title-1
+
+# Policy Analysis 
+
+**The steps**: 
+
+--
+
+1. Define the problem
+
+--
+
+1. Identify the goals in addressing the problem
+
+--
+
+1. Consider solutions
+
+--
+
+1. Evaluate the alternatives
+
+--
+
+1. Make a recommendation
+
+---
+
+.center[![](img/plane.jpg)]
+
+---
+
+class: title title-1
+
+# Technocracy 
+
+> **A system of government characterized by high reliance on a small elite of technical experts, whose decisions about public policy are more influential than the desires of citizens** 
+
+-_Birkland_ pg. 9
+
+---
+
+class: title title-1
+
+# Politics, Policy, and Policy Analysis
+
+**Two logics of policymaking**
+ 
+--
+
+**Technocratic rationality (policy analysis/economic theory)** 
+
+--
+
+* Application of logic, expertise, and data to political phenomena as a way to bypass the "messiness" of politics
+
+--
+
+* Transparent assumptions
+
+--
+
+* Consistent methods to compare policy alternatives 
+
+
+---
+
+class: title title-1
+
+# Politics, Policy, and Policy Analysis
+
+**Two logics of policymaking**
+ 
+
+**Political rationality (political actors)** 
+
+--
+
+* Strategic use of information 
+
+--
+
+* Release of favorable information and suppression of unfavorable information 
+
+
+---
+
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/c0MUwFSSaISOCfoRpf2Ht?controls=none&short_poll=true" width="800px" height="600px"></iframe>
 
 ???
 quiz q
 ---
 
+class: center, middle
+
+# How did you decide where to go to college? 
+
+---
+
+class: title title-1
+
+# Decision-Making Models 
+
+**Rational comprehensive** 
+
+> **A model of decision making in which it is assumed that decision makers have nearly all information about a problem, its causes, and its solutions at their disposal, whereupon a large number of alternatives can be weighed and the best one selected** 
+
+-*Birkland* pg. 296
+
+---
+
+class: title title-1
+
+# Decision-Making Models 
+
+**Bounded rationality**
+
+> **A term that describes how decision-makers seek to act as rationally as possible within certain bounds or limits; these limits include time, limited information, and our limited human ability to recognize every feature and pattern of every problem** 
+
+-*Birkland* pg. 297
+
+
+???
+## _Decision-making models_ $\rightarrow$ _Policymaking_
+
+</br>
+**Rational comprehensive $\rightarrow$ Rational comprehensive (Technocratic)**
+
+</br>
+**Bounded rationality $\rightarrow$ Incrementalism** 
+
+---
+
+class: title title-1
+
+# Incrementalism 
+
+.pull-left[
+**Policy change is accomplished through small, incremental steps that allow decision-makers to adjust policies as they learn from their successes and failures**
+]
+
+.pull-right[
+![](img/increm.png)
+]
+
+---
+
+class: title title-1
+
+# Incrementalism 
+
+**Decisions are made in increments, which allow for**:
+
+
+--
+
+
+* “Successive limited comparisons”—that is, tests and adjustments of policy
+
+--
+
+* Not having to separate means from ends, which could slow decisions
+
+--
+
+**Policymaking consists of both incrementalism and sudden, rapid change** 
+
+---
 
 class: center, middle
 
@@ -203,7 +571,6 @@ class: title title-1
 
 ---
 
-&lt;iframe src="https://embed.polleverywhere.com/multiple_choice_polls/Akj2bGJpBXJtImITh62kT?controls=none&amp;short_poll=true" width="800px" height="600px"&gt;&lt;/iframe&gt;
 
 ???
 quiz q
@@ -211,7 +578,7 @@ quiz q
 
 class: center, middle
 
-# How do we get from policy formulation `\(\rightarrow\)` alternative selection `\(\rightarrow\)` enactment? 
+# How do we get from policy formulation $\rightarrow$ alternative selection $\rightarrow$ enactment? 
 
 ---
 
@@ -235,11 +602,6 @@ class: title title-1
 
 **CBA provides a systematic way to consider _trade-offs_ associated with policy alternatives and select the most efficient alternative**
 
----
-
-&lt;iframe src="https://embed.polleverywhere.com/multiple_choice_polls/fWKlC7bgGwMkHuCII5Zuf?controls=none&amp;short_poll=true" width="800px" height="600px"&gt;&lt;/iframe&gt;
-???
-quiz q
 ---
 
 class: title title-1
@@ -315,9 +677,9 @@ class: title title-1
 **Charleston Peninsula Sea-Wall**
 
 .pull-left[
-&lt;figure&gt;
-  &lt;img src="img/seawall-bca.png" width="%"&gt;
-&lt;/figure&gt;
+<figure>
+  <img src="img/seawall-bca.png" width="%">
+</figure>
 ]
 
 --
@@ -376,7 +738,7 @@ class: title title-1
 
 ---
 
-&lt;iframe src="https://embed.polleverywhere.com/multiple_choice_polls/W4QOd85fhndQrqrgduYxU?controls=none&amp;short_poll=true" width="800px" height="600px"&gt;&lt;/iframe&gt;
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/W4QOd85fhndQrqrgduYxU?controls=none&short_poll=true" width="800px" height="600px"></iframe>
 
 ???
 quiz q
@@ -487,7 +849,7 @@ class: title title-1
 
 ---
 
-&lt;iframe src="https://embed.polleverywhere.com/multiple_choice_polls/w5kY6wkJEe5sF2AdlumxX?controls=none&amp;short_poll=true" width="800px" height="600px"&gt;&lt;/iframe&gt;
+
 
 ???
 quiz question
@@ -509,9 +871,7 @@ class: title title-1
 
 # The Value of A Statistical Life
 
-&lt;br&gt;
-
-&gt; **Estimates of how much people are willing to pay for small reductions in their risks of dying from adverse health conditions that may be caused by environmental pollution**
+> **Estimates of how much people are willing to pay for small reductions in their risks of dying from adverse health conditions that may be caused by environmental pollution**
 
 -_Environmental Protection Agency_
 
@@ -536,13 +896,6 @@ class: title title-1
 --
 
 * The value of a statistical life = $10 million 
-
----
-
-# It's Hard to Value Costs and Benefits in Monetary Terms 
-
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/1OpudXjdEx4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-
 
 ---
 
@@ -605,130 +958,3 @@ class: title title-1
 * Cost-benefit analysis can (maybe) help
 
 
-    </textarea>
-<style data-target="print-only">@media screen {.remark-slide-container{display:block;}.remark-slide-scaler{box-shadow:none;}}</style>
-<script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
-<script>var slideshow = remark.create({
-"highlightStyle": "github",
-"highlightLines": true,
-"countIncrementalSlides": false,
-"ratio": "16:9",
-"navigation": {
-"scroll": false
-}
-});
-if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
-  window.dispatchEvent(new Event('resize'));
-});
-(function(d) {
-  var s = d.createElement("style"), r = d.querySelector(".remark-slide-scaler");
-  if (!r) return;
-  s.type = "text/css"; s.innerHTML = "@page {size: " + r.style.width + " " + r.style.height +"; }";
-  d.head.appendChild(s);
-})(document);
-
-(function(d) {
-  var el = d.getElementsByClassName("remark-slides-area");
-  if (!el) return;
-  var slide, slides = slideshow.getSlides(), els = el[0].children;
-  for (var i = 1; i < slides.length; i++) {
-    slide = slides[i];
-    if (slide.properties.continued === "true" || slide.properties.count === "false") {
-      els[i - 1].className += ' has-continuation';
-    }
-  }
-  var s = d.createElement("style");
-  s.type = "text/css"; s.innerHTML = "@media print { .has-continuation { display: none; } }";
-  d.head.appendChild(s);
-})(document);
-// delete the temporary CSS (for displaying all slides initially) when the user
-// starts to view slides
-(function() {
-  var deleted = false;
-  slideshow.on('beforeShowSlide', function(slide) {
-    if (deleted) return;
-    var sheets = document.styleSheets, node;
-    for (var i = 0; i < sheets.length; i++) {
-      node = sheets[i].ownerNode;
-      if (node.dataset["target"] !== "print-only") continue;
-      node.parentNode.removeChild(node);
-    }
-    deleted = true;
-  });
-})();
-(function() {
-  "use strict"
-  // Replace <script> tags in slides area to make them executable
-  var scripts = document.querySelectorAll(
-    '.remark-slides-area .remark-slide-container script'
-  );
-  if (!scripts.length) return;
-  for (var i = 0; i < scripts.length; i++) {
-    var s = document.createElement('script');
-    var code = document.createTextNode(scripts[i].textContent);
-    s.appendChild(code);
-    var scriptAttrs = scripts[i].attributes;
-    for (var j = 0; j < scriptAttrs.length; j++) {
-      s.setAttribute(scriptAttrs[j].name, scriptAttrs[j].value);
-    }
-    scripts[i].parentElement.replaceChild(s, scripts[i]);
-  }
-})();
-(function() {
-  var links = document.getElementsByTagName('a');
-  for (var i = 0; i < links.length; i++) {
-    if (/^(https?:)?\/\//.test(links[i].getAttribute('href'))) {
-      links[i].target = '_blank';
-    }
-  }
-})();
-// adds .remark-code-has-line-highlighted class to <pre> parent elements
-// of code chunks containing highlighted lines with class .remark-code-line-highlighted
-(function(d) {
-  const hlines = d.querySelectorAll('.remark-code-line-highlighted');
-  const preParents = [];
-  const findPreParent = function(line, p = 0) {
-    if (p > 1) return null; // traverse up no further than grandparent
-    const el = line.parentElement;
-    return el.tagName === "PRE" ? el : findPreParent(el, ++p);
-  };
-
-  for (let line of hlines) {
-    let pre = findPreParent(line);
-    if (pre && !preParents.includes(pre)) preParents.push(pre);
-  }
-  preParents.forEach(p => p.classList.add("remark-code-has-line-highlighted"));
-})(document);</script>
-
-<script>
-slideshow._releaseMath = function(el) {
-  var i, text, code, codes = el.getElementsByTagName('code');
-  for (i = 0; i < codes.length;) {
-    code = codes[i];
-    if (code.parentNode.tagName !== 'PRE' && code.childElementCount === 0) {
-      text = code.textContent;
-      if (/^\\\((.|\s)+\\\)$/.test(text) || /^\\\[(.|\s)+\\\]$/.test(text) ||
-          /^\$\$(.|\s)+\$\$$/.test(text) ||
-          /^\\begin\{([^}]+)\}(.|\s)+\\end\{[^}]+\}$/.test(text)) {
-        code.outerHTML = code.innerHTML;  // remove <code></code>
-        continue;
-      }
-    }
-    i++;
-  }
-};
-slideshow._releaseMath(document);
-</script>
-<!-- dynamically load mathjax for compatibility with self-contained -->
-<script>
-(function () {
-  var script = document.createElement('script');
-  script.type = 'text/javascript';
-  script.src  = 'https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML';
-  if (location.protocol !== 'file:' && /^https?:/.test(script.src))
-    script.src  = script.src.replace(/^https?:/, '');
-  document.getElementsByTagName('head')[0].appendChild(script);
-})();
-</script>
-  </body>
-</html>
